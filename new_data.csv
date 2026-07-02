@@ -1,0 +1,2156 @@
+drug,condition,reactions
+HOLOXAN,CENTRAL NERVOUS SYSTEM LYMPHOMA,['Disease progression']
+DIANEAL LOW CALCIUM (ULTRABAG),PERITONEAL DIALYSIS,['Myocardial infarction']
+NEULASTA,PROPHYLAXIS,['Investigation']
+JAKAFI,MYELOFIBROSIS,"['Platelet count increased', 'White blood cell count increased', 'Drug ineffective']"
+JAKAFI,ESSENTIAL THROMBOCYTHAEMIA,['Transfusion']
+AUBAGIO,MULTIPLE SCLEROSIS,"['Rhinalgia', 'Facial pain', 'Mobility decreased', 'Seizure']"
+GILENYA,MULTIPLE SCLEROSIS,['Cholelithiasis']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Sleep disorder', 'Sinus disorder']"
+GILENYA,MULTIPLE SCLEROSIS,"['Rheumatoid arthritis', 'Arthralgia', 'Rheumatoid factor increased', 'Neck pain', 'Back pain', 'Musculoskeletal pain']"
+CUBICIN,ENDOCARDITIS,['Death']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Discomfort']
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,"['Musculoskeletal chest pain', 'Cough', 'Fall', 'Drug administration error']"
+CLOZARIL,SCHIZOPHRENIA,"['Atrial septal defect', 'Bundle branch block right', 'Tachycardia']"
+JAKAFI,PULMONARY ARTERIAL HYPERTENSION,"['Somnolence', 'Drug dose omission']"
+JAKAFI,MYELOFIBROSIS,['Endodontic procedure']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Cardiac failure congestive', 'Fluid retention', 'Swelling']"
+LETAIRIS,PULMONARY HYPERTENSION,['Dyspnoea exertional']
+LETAIRIS,PULMONARY EMBOLISM,"['Respiratory disorder', 'Dyspnoea', 'Cough']"
+DEPAKOTE,BIPOLAR DISORDER,['Tremor']
+DEPAKOTE,BIPOLAR DISORDER,"['Confusional state', 'Hyperammonaemia']"
+ENBREL,RHEUMATOID ARTHRITIS,['Visual impairment']
+HOLOXAN,CENTRAL NERVOUS SYSTEM LYMPHOMA,['Disease progression']
+MIRENA,CONTRACEPTION,"['Uterine perforation', 'Post procedural discomfort', 'Pain', 'Device dislocation', 'Pregnancy with contraceptive device', 'Drug ineffective', 'Device difficult to use', 'Uterine haemorrhage', 'Injury', 'Depression', 'Anxiety', 'Stress', 'Device issue']"
+REVLIMID,PLASMA CELL MYELOMA,"['Influenza', 'Pneumonia']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Fatigue', 'Asthenia']"
+HOLOXAN,CENTRAL NERVOUS SYSTEM LYMPHOMA,"['Neurological decompensation', 'Disease progression']"
+LETAIRIS,PULMONARY HYPERTENSION,['Tremor']
+LETAIRIS,PULMONARY HYPERTENSION,['Hypertension']
+REVLIMID,PLASMA CELL MYELOMA,"['Plasma cell myeloma', 'Respiratory disorder', 'Arrhythmia']"
+GLIVEC,CHRONIC MYELOID LEUKAEMIA,['Death']
+LETAIRIS,PULMONARY HYPERTENSION,"['Oedema peripheral', 'Fluid retention']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Headache', 'Vomiting', 'Blood pressure decreased', 'Nausea']"
+HOLOXAN,CENTRAL NERVOUS SYSTEM LYMPHOMA,['Disease progression']
+MIRENA,CONTRACEPTION,"['Device expulsion', 'Device expulsion']"
+LETAIRIS,CONNECTIVE TISSUE DISORDER,['Fluid retention']
+LETAIRIS,HEART DISEASE CONGENITAL,"['Sinusitis', 'Auricular haematoma', 'Fall', 'Wrist fracture', 'Excessive cerumen production']"
+JAKAFI,MYELOFIBROSIS,"['Ear haemorrhage', 'Ear infection']"
+HOLOXAN,CENTRAL NERVOUS SYSTEM LYMPHOMA,['Disease progression']
+LETAIRIS,PULMONARY HYPERTENSION,['Swelling']
+MIRENA,CONTRACEPTION,"['Uterine perforation', 'Depression', 'Anxiety', 'Depressed mood', 'Device issue', 'Injury', 'Pain', 'Emotional distress']"
+HOLOXAN,CENTRAL NERVOUS SYSTEM LYMPHOMA,['Disease progression']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Dyspnoea exertional']
+SPIRIVA,EMPHYSEMA,"['Dry mouth', 'Product quality issue']"
+PARAGARD 380A,CONTRACEPTION,['Embedded device']
+FORTEO,OSTEOPOROSIS,"['Femur fracture', 'Fall']"
+SPIRIVA,ASTHMA,"['Incorrect route of drug administration', 'Off label use']"
+JAKAFI,MYELOFIBROSIS,"['Fatigue', 'Dyspnoea', 'White blood cell count abnormal', 'Drug ineffective']"
+JAKAFI,MYELOFIBROSIS,['Hepatic enzyme increased']
+JAKAFI,MYELOFIBROSIS,"['Fatigue', 'Insomnia']"
+AUBAGIO,MULTIPLE SCLEROSIS,"['Muscle spasms', 'Condition aggravated', 'Pain', 'Hypoaesthesia', 'Abdominal distension', 'Insomnia', 'Fatigue', 'Nausea', 'Alopecia']"
+LIPITOR,BLOOD CHOLESTEROL INCREASED,['Type 2 diabetes mellitus']
+LYRICA,FIBROMYALGIA,"['Drug ineffective', 'Swelling', 'Joint swelling']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Dyspnoea']
+HUMIRA,RHEUMATOID ARTHRITIS,"['Arthropathy', 'Osteonecrosis']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Oedema peripheral']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Dyspnoea', 'Dyspnoea exertional', 'Oedema']"
+ACLASTA,OSTEOPOROSIS,"['Nerve compression', 'Mobility decreased', 'Abasia']"
+GILENYA,RELAPSING-REMITTING MULTIPLE SCLEROSIS,"['Chest pain', 'Tremor', 'Headache']"
+HOLOXAN,CENTRAL NERVOUS SYSTEM LYMPHOMA,['Disease progression']
+HUMIRA,PSORIASIS,"['Organising pneumonia', 'Fall', 'Lung infection', 'Urinary tract infection bacterial', 'Lower respiratory tract infection bacterial', 'Acute respiratory distress syndrome', 'Loss of consciousness', 'Psoriasis', 'Blood cholesterol increased', 'Amnesia', 'Dyspnoea', 'Headache', 'Exposure to contaminated water']"
+JAKAFI,MYELOFIBROSIS,"['Sneezing', 'Nasal congestion']"
+JAKAFI,MYELOPROLIFERATIVE DISORDER,['Platelet count increased']
+HOLOXAN,CENTRAL NERVOUS SYSTEM LYMPHOMA,['Disease progression']
+LETAIRIS,PULMONARY HYPERTENSION,"['Pain', 'Fatigue', 'Pain in extremity', 'Oedema peripheral']"
+GILENYA,MULTIPLE SCLEROSIS,"['Atrioventricular block first degree', 'Angina pectoris']"
+NEULASTA,PROPHYLAXIS,['Investigation']
+LETAIRIS,PORTOPULMONARY HYPERTENSION,"['Liver function test abnormal', 'Liver disorder']"
+LETAIRIS,PULMONARY HYPERTENSION,['Dyspnoea']
+LETAIRIS,PULMONARY HYPERTENSION,['Rhinorrhoea']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Productive cough', 'Dyspnoea', 'Pain in jaw', 'Cough']"
+HOLOXAN,CENTRAL NERVOUS SYSTEM LYMPHOMA,['Disease progression']
+CLOZARIL,SCHIZOPHRENIA,"['Neutrophil count increased', 'White blood cell count increased', 'Abnormal behaviour']"
+LETAIRIS,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,['Peripheral swelling']
+NEXPLANON,CONTRACEPTION,['Medical device complication']
+JAKAFI,MYELOFIBROSIS,['Hair texture abnormal']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Sepsis', 'Tooth infection']"
+JAKAFI,MYELOFIBROSIS,"['Haemoglobin decreased', 'Weight increased']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Nasopharyngitis', 'Sinus congestion', 'Cough']"
+DEPAKOTE,BIPOLAR DISORDER,['Nausea']
+PRADAXA,CEREBROVASCULAR ACCIDENT PROPHYLAXIS,"['Proctalgia', 'Anorectal discomfort', 'Rectal haemorrhage']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Dental pulp disorder']
+LETAIRIS,SCLERODERMA,"['Throat irritation', 'Wheezing', 'Dyspnoea']"
+ACLASTA,OSTEOPOROSIS,"['Nasopharyngitis', 'Malaise', 'Pyrexia', 'Nasal congestion', 'Headache', 'Diarrhoea', 'Nausea']"
+LETAIRIS,PULMONARY HYPERTENSION,['Palpitations']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Unevaluable event', 'Swelling', 'Hot flush', 'Pruritus']"
+NEXPLANON,CONTRACEPTION,"['Implant site pruritus', 'Implant site erythema']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Fluid retention']
+LETAIRIS,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,"['Myalgia', 'Back disorder', 'Syncope', 'Intervertebral disc protrusion', 'Malaise', 'Dyspnoea']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Oedema peripheral', 'Fluid retention']"
+LETAIRIS,PULMONARY HYPERTENSION,['Hiccups']
+HOLOXAN,CENTRAL NERVOUS SYSTEM LYMPHOMA,['Disease progression']
+ACLASTA,OSTEOPOROSIS,['Chronic obstructive pulmonary disease']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Drug ineffective', 'Condition aggravated', 'Dyspnoea']"
+JAKAFI,MYELOFIBROSIS,['Gout']
+JAKAFI,MYELOFIBROSIS,"['Pulmonary embolism', 'Anaemia', 'Haemoglobin decreased']"
+LETAIRIS,PULMONARY HYPERTENSION,['Swelling']
+HOLOXAN,CENTRAL NERVOUS SYSTEM LYMPHOMA,['Disease progression']
+MIRENA,CONTRACEPTION,['Device dislocation']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Trigeminal neuralgia', 'Pain in jaw', 'Facial pain']"
+DEPAKOTE,BIPOLAR DISORDER,['Medication residue present']
+JAKAFI,MYELOFIBROSIS,"['Abdominal pain', 'Headache']"
+COPAXONE,MULTIPLE SCLEROSIS,"['Tooth loss', 'Teeth brittle', 'Tooth disorder', 'Tooth fracture']"
+JAKAFI,MYELOFIBROSIS,['Therapeutic response unexpected']
+JAKAFI,MYELOFIBROSIS,"['Laboratory test abnormal', 'Contusion', 'Drug dose omission', 'Platelet count increased', 'Hypertension', 'Treatment noncompliance', 'Eye disorder', 'White blood cell count increased', 'Pain']"
+LYRICA,FIBROMYALGIA,"['Dry mouth', 'Dry eye']"
+JAKAFI,MYELOFIBROSIS,"['Vitreous floaters', 'Contusion', 'Weight increased', 'Headache']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Post procedural haemorrhage', 'Acidosis']"
+DEPAKOTE,NEURALGIA,"['Pancreatitis', 'Off label use']"
+OXYTROL FOR WOMEN,HYPERTONIC BLADDER,['Inappropriate schedule of drug administration']
+JAKAFI,MYELOFIBROSIS,"['Influenza like illness', 'Local swelling']"
+GILENYA,MULTIPLE SCLEROSIS,"['Peripheral swelling', 'Increased appetite', 'Weight increased', 'Stress']"
+HUMIRA,PSORIATIC ARTHROPATHY,['Bronchial carcinoma']
+MIRENA,CONTRACEPTION,"['Uterine perforation', 'Injury', 'Pain', 'Emotional distress', 'Psychological trauma']"
+SPIRIVA,EMPHYSEMA,['Drug administration error']
+AUBAGIO,MULTIPLE SCLEROSIS,"['Hypotension', 'Pneumonia']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Headache']
+LETAIRIS,PULMONARY HYPERTENSION,"['Malaise', 'Insomnia', 'Fatigue', 'Asthenia']"
+JAKAFI,MYELOFIBROSIS,"['Pain in jaw', 'Pyrexia', 'Flatulence', 'Diarrhoea']"
+JAKAFI,MYELOPROLIFERATIVE DISORDER,['Weight loss poor']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Pancreatitis']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,"['Type 2 diabetes mellitus', 'Visual impairment', 'Neuropathy peripheral']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Nasopharyngitis', 'Nasal congestion']"
+PROLIA,OSTEOPOROSIS,"['Femoral neck fracture', 'Osteoarthritis', 'Drug ineffective']"
+GILENYA,RELAPSING-REMITTING MULTIPLE SCLEROSIS,"['Skin lesion', 'Lymphadenopathy', 'Lymph node pain', 'Basal cell carcinoma', 'Seborrhoeic keratosis', 'Fall']"
+GILENYA,MULTIPLE SCLEROSIS,['Central nervous system lesion']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+JAKAFI,MYELOFIBROSIS,"['Hypoaesthesia', 'Anaemia']"
+DEPAKOTE,BIPOLAR DISORDER,"['Headache', 'Drug effect incomplete']"
+GILENYA,MULTIPLE SCLEROSIS,"['Neurogenic bladder', 'Feeling abnormal', 'Balance disorder', 'Nervousness', 'Frustration', 'Hypoaesthesia', 'Dyspnoea']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Oedema peripheral']
+NEULASTA,PROPHYLAXIS,['Investigation']
+HUMIRA,ANKYLOSING SPONDYLITIS,"['Asthenia', 'Cold sweat', 'Nausea', 'Palpitations']"
+REVLIMID,MYELODYSPLASTIC SYNDROME,['Death']
+JAKAFI,MYELOFIBROSIS,"['Platelet count abnormal', 'Platelet count decreased', 'Haemoglobin decreased']"
+DEPAKOTE,BIPOLAR DISORDER,"['Anxiety', 'Insomnia', 'Nervousness', 'Drug withdrawal syndrome', 'Drug ineffective', 'Feeling abnormal']"
+JAKAFI,MYELOFIBROSIS,"['Nausea', 'Vomiting', 'Diarrhoea']"
+ACLASTA,OSTEOPOROSIS,"['Respiratory failure', 'Chronic obstructive pulmonary disease']"
+HUMIRA,CROHN^S DISEASE,['Appendix disorder']
+HUMIRA,PSORIATIC ARTHROPATHY,['Myocardial infarction']
+JAKAFI,MYELOFIBROSIS,"['Thrombotic microangiopathy', 'Renal impairment', 'Hepatic failure', 'Mental status changes', 'Stem cell transplant', 'Graft versus host disease', 'Fatigue', 'Drug administration error']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+JAKAFI,MYELOFIBROSIS,['Neuralgia']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+JAKAFI,MYELOFIBROSIS,"['Pulmonary congestion', 'Ear congestion']"
+COMBIVENT,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,['Dysphonia']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+HUMIRA,PSORIASIS,"['Muscular weakness', 'Paraesthesia']"
+JAKAFI,MYELOFIBROSIS,"['Diarrhoea', 'Dyspepsia', 'Nausea', 'Headache']"
+SUTENT,RENAL CELL CARCINOMA,"['Death', 'Pain']"
+JAKAFI,MYELOFIBROSIS,"['Fatigue', 'Stomatitis', 'Haemoglobin decreased', 'Platelet count decreased', 'Weight increased']"
+EFFEXOR XR,DEPRESSION,"['Dizziness', 'Heart rate increased', 'Musculoskeletal pain', 'Pain in extremity', 'Chest discomfort']"
+HUMIRA,RHEUMATOID ARTHRITIS,['Malaise']
+AUBAGIO,MULTIPLE SCLEROSIS,"['Surgery', 'Muscular weakness', 'Alopecia', 'Drug dose omission']"
+PLAN B ONE-STEP,POST COITAL CONTRACEPTION,['Menstruation irregular']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Cerebrovascular accident', 'Blindness unilateral']"
+JAKAFI,MYELOFIBROSIS,"['Pain', 'Anaemia']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+JAKAFI,MYELOFIBROSIS,"['Rash', 'Hypersensitivity']"
+EFFEXOR XR,DEPRESSION,"['Spinal disorder', 'Dizziness', 'Feeling abnormal']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+JAKAFI,POLYCYTHAEMIA VERA,"['Feeling cold', 'White blood cell count decreased', 'Dizziness']"
+JAKAFI,MYELOFIBROSIS,"['No adverse event', 'Bone marrow transplant']"
+JAKAFI,MYELOFIBROSIS,['Flatulence']
+JAKAFI,POLYCYTHAEMIA VERA,"['Oral mucosal erythema', 'Oral pain', 'Abdominal tenderness']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,['Coeliac disease']
+TASIGNA,CHRONIC MYELOID LEUKAEMIA,['Death']
+CUBICIN,ENDOCARDITIS,['Infection']
+CORICIDIN HBP COLD AND FLU,NASOPHARYNGITIS,['Drug ineffective']
+PARAGARD 380A,CONTRACEPTION,"['Menorrhagia', 'Medical device complication']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+JAKAFI,MYELOFIBROSIS,"['Platelet count increased', 'Abdominal discomfort', 'Hypoaesthesia', 'Paraesthesia', 'Nausea', 'Headache', 'Dizziness', 'Contusion', 'Ecchymosis']"
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,['Incorrect route of drug administration']
+CLARITIN CHEWABLE TABLETS,HYPERSENSITIVITY,['Overdose']
+JAKAFI,MYELOFIBROSIS,"['Malaise', 'Nausea', 'Haemoglobin decreased', 'Headache']"
+JAKAFI,MYELOPROLIFERATIVE DISORDER,"['Pain', 'Dizziness', 'Headache']"
+REVLIMID,PLASMA CELL MYELOMA,['Foot deformity']
+GABAPENTIN,NEURALGIA,['Alopecia']
+PLAN B ONE-STEP,POST COITAL CONTRACEPTION,['Cough']
+LETAIRIS,PULMONARY HYPERTENSION,"['Muscle disorder', 'Pain in extremity', 'Dizziness', 'Asthenia']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+SPIRIVA,ASTHMA,"['Incorrect route of drug administration', 'Off label use']"
+DIANEAL LOW CALCIUM,RENAL FAILURE CHRONIC,"['Impaired healing', 'Calciphylaxis', 'Diabetic complication', 'Wound']"
+JAKAFI,MYELOFIBROSIS,['Drug prescribing error']
+COPAXONE,MULTIPLE SCLEROSIS,"['Eye pain', 'Ocular vascular disorder', 'Retinal vascular disorder']"
+JAKAFI,MYELOFIBROSIS,"['Malaise', 'Night sweats', 'Abdominal pain', 'Disease progression', 'No therapeutic response']"
+PRADAXA,ATRIAL FIBRILLATION,['Cerebrovascular accident']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+CORICIDIN HBP COLD AND FLU,NASOPHARYNGITIS,"['Feeling abnormal', 'Somnolence', 'Drug effect decreased']"
+JAKAFI,MYELOFIBROSIS,"['Nasopharyngitis', 'Productive cough', 'Chronic sinusitis']"
+JAKAFI,MYELOFIBROSIS,"['Pneumonia', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,"['Rash', 'Discomfort', 'Constipation', 'Skin disorder', 'Skin sensitisation', 'Blister', 'Jaundice']"
+CLARITIN CHEWABLE TABLETS,SEASONAL ALLERGY,['Overdose']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+CORICIDIN HBP COLD AND FLU,NASOPHARYNGITIS,['Drug ineffective']
+JAKAFI,MYELOFIBROSIS,['Constipation']
+LYRICA,PAIN,['Drug ineffective']
+LYRICA,NEURALGIA,"['Malaise', 'Pain', 'Feeling abnormal']"
+REVLIMID,PLASMA CELL MYELOMA,['Mental status changes']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+JAKAFI,MYELOFIBROSIS,['Dysgeusia']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+PLAN B ONE-STEP,POST COITAL CONTRACEPTION,['Diarrhoea']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+PLAN B ONE-STEP,POST COITAL CONTRACEPTION,['Menstruation irregular']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['No therapeutic response', 'Aphonia', 'Pyrexia', 'Dizziness']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Cardiac failure congestive', 'Fatigue', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,['Hepatic enzyme increased']
+LETAIRIS,PULMONARY HYPERTENSION,['Fatigue']
+JAKAFI,MYELOFIBROSIS,['Therapeutic response unexpected']
+TASIGNA,CHRONIC MYELOID LEUKAEMIA,['Death']
+AVANDIA,DIABETES MELLITUS,['Myocardial infarction']
+AVANDIA,DIABETES MELLITUS,"['Myocardial infarction', 'Ischaemic cardiomyopathy', 'Angina pectoris', 'Cardiac failure congestive']"
+LYRICA,PAIN,['Gastrointestinal disorder']
+PLAN B ONE-STEP,POST COITAL CONTRACEPTION,"['Diarrhoea', 'Back pain', 'Feeling abnormal']"
+JAKAFI,MYELOFIBROSIS,['Blast cell count decreased']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+AVANDIA,DIABETES MELLITUS,"['Myocardial infarction', 'Coronary artery disease']"
+EFFEXOR XR,DEPRESSION,['Diarrhoea']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+OXYTROL FOR WOMEN,POLLAKIURIA,"['Purulent discharge', 'Scab', 'Skin irritation', 'Application site erythema', 'Rash', 'Dermatitis', 'Rash']"
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+JAKAFI,MYELOFIBROSIS,['Blood count abnormal']
+LETAIRIS,PULMONARY HYPERTENSION,['Oedema peripheral']
+JAKAFI,MYELOFIBROSIS,"['Thrombocytopenia', 'Abdominal distension', 'Splenomegaly', 'Arthralgia', 'Tenderness', 'Full blood count decreased']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,"['Hypoaesthesia', 'Vision blurred']"
+CLARITIN CHEWABLE TABLETS,SEASONAL ALLERGY,['Overdose']
+LETAIRIS,PULMONARY HYPERTENSION,"['Pallor', 'Swelling', 'Swelling face', 'Vision blurred']"
+CLARITIN CHEWABLE TABLETS,SEASONAL ALLERGY,"['Overdose', 'Accidental exposure to product by child']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+JAKAFI,MYELOFIBROSIS,['Flatulence']
+CHANTIX,SMOKING CESSATION THERAPY,"['Rash', 'Skin discolouration', 'Intentional drug misuse', 'Vomiting', 'Weight decreased']"
+PLAN B ONE-STEP,POST COITAL CONTRACEPTION,['Menstruation irregular']
+JAKAFI,MYELOFIBROSIS,"['White blood cell count increased', 'Drug ineffective']"
+REVLIMID,MYELOFIBROSIS,['Laboratory test abnormal']
+LIPITOR,BLOOD CHOLESTEROL INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+GABAPENTIN,PAIN,['Drug ineffective']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+CLARITIN CHEWABLE TABLETS,HYPERSENSITIVITY,['Overdose']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+POMALYST,PLASMA CELL MYELOMA,['Death']
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,"['Anxiety', 'Heart rate increased', 'Drug ineffective', 'Product quality issue', 'Product quality issue', 'Product quality issue']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+REMICADE,RHEUMATOID ARTHRITIS,"['Finger deformity', 'Oral surgery', 'Foot deformity', 'Arthropathy', 'Arthropathy', 'Prostatic disorder', 'Abnormal loss of weight', 'Body height decreased', 'Memory impairment']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Pain', 'Constipation']"
+CLARITIN CHEWABLE TABLETS,SEASONAL ALLERGY,['Overdose']
+AFINITOR,BREAST CANCER METASTATIC,"['Angioedema', 'Flushing', 'Erythema', 'Skin exfoliation', 'Skin toxicity', 'Swelling', 'Pruritus']"
+JAKAFI,MYELOFIBROSIS,"['Dyspepsia', 'Contusion']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY HYPERTENSION,"['Peripheral swelling', 'Rash erythematous']"
+AVANDIA,DIABETES MELLITUS,['Myocardial infarction']
+LETAIRIS,PORTOPULMONARY HYPERTENSION,['Oedema']
+CORICIDIN HBP COLD AND FLU,NASOPHARYNGITIS,['Drug ineffective']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Fluid retention', 'Oedema', 'Weight decreased']"
+PARAGARD 380A,CONTRACEPTION,"['Device dislocation', 'Pelvic pain']"
+JAKAFI,MYELOFIBROSIS,"['Laboratory test abnormal', 'Vertigo']"
+JAKAFI,MYELOFIBROSIS,"['Nausea', 'Chills', 'Abdominal pain', 'Headache']"
+JAKAFI,MYELOFIBROSIS,"['Atrial fibrillation', 'Glaucoma', 'Transfusion']"
+CLARITIN CHEWABLE TABLETS,SEASONAL ALLERGY,['Overdose']
+LYRICA,PAIN,['Anorgasmia']
+JAKAFI,MYELOFIBROSIS,['Epistaxis']
+AVANDIA,DIABETES MELLITUS,"['Myocardial infarction', 'Cardiac failure congestive', 'Cardiac disorder']"
+XARELTO,ATRIAL FIBRILLATION,"['Surgery', 'Cerebrovascular accident']"
+JAKAFI,POLYCYTHAEMIA VERA,['Adverse drug reaction']
+REVLIMID,PLASMA CELL MYELOMA,['Respiratory disorder']
+REMICADE,CROHN^S DISEASE,"['Palpitations', 'Chest pain']"
+AVANDIA,DIABETES MELLITUS,"['Myocardial infarction', 'Coronary artery disease']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,PORTOPULMONARY HYPERTENSION,"['Urinary tract infection', 'Bladder discomfort']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Arthritis']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Procedural pain']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+OXYTROL FOR WOMEN,NOCTURIA,"['Drug effect decreased', 'Product quality issue']"
+COPAXONE,MULTIPLE SCLEROSIS,"['Influenza like illness', 'Drug intolerance']"
+JAKAFI,MYELOFIBROSIS,['Pneumonia']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Nasal congestion']
+PRADAXA,ATRIAL FIBRILLATION,['Lower gastrointestinal haemorrhage']
+DIANEAL LOW CALCIUM (ULTRABAG),RENAL FAILURE CHRONIC,"['Weight increased', 'Abdominal pain', 'Muscle spasms']"
+CLOZARIL,SCHIZOPHRENIA,"['Neutrophil count decreased', 'White blood cell count decreased']"
+POMALYST,PLASMA CELL MYELOMA,"['Plasma cell myeloma', 'Respiratory failure']"
+LETAIRIS,PULMONARY HYPERTENSION,['Swelling']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Cardiac disorder', 'Cough', 'Nasopharyngitis']"
+CORICIDIN HBP COLD AND FLU,NASOPHARYNGITIS,['Drug effect delayed']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Fluid overload']
+LETAIRIS,PULMONARY HYPERTENSION,['Cough']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Orthopnoea', 'Weight increased', 'Fluid retention', 'Dyspnoea']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Oedema peripheral', 'Muscle spasms']"
+ACLASTA,OSTEOPOROSIS,"['Death', 'Respiratory disorder', 'Pneumonia', 'Hypokinesia']"
+OXYTROL FOR WOMEN,URINARY INCONTINENCE,"['Skin irritation', 'Application site erythema', 'Drug effect decreased', 'Product adhesion issue']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Abdominal discomfort']
+LETAIRIS,RHEUMATOID ARTHRITIS,"['Hot flush', 'Nasal congestion', 'Pruritus', 'Decreased appetite', 'Nausea', 'Vomiting', 'Abdominal pain upper']"
+REVLIMID,PLASMA CELL MYELOMA,"['Pulmonary embolism', 'Gastroenteritis', 'Dehydration']"
+LETAIRIS,PORTOPULMONARY HYPERTENSION,"['Fall', 'Emergency care', 'Balance disorder']"
+CLARITIN CHEWABLE TABLETS,HYPERSENSITIVITY,['Overdose']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+PARAGARD 380A,CONTRACEPTION,"['Device expulsion', 'Metrorrhagia']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,['Dyspnoea']
+JAKAFI,MYELOFIBROSIS,['Tongue ulceration']
+GILENYA,MULTIPLE SCLEROSIS,"['Multiple sclerosis relapse', 'Central nervous system lesion', 'Restlessness', 'Ataxia', 'IIIrd nerve disorder', 'Paresis', 'Hypoaesthesia', 'Speech disorder', 'Nystagmus']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Urinary tract infection']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Hearing impaired']
+GILENYA,MULTIPLE SCLEROSIS,"['Chest pain', 'Dysphagia', 'Pyrexia']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Abdominal pain']
+JAKAFI,MYELOFIBROSIS,"['Asthenia', 'Dyspnoea', 'Anaemia', 'Drug administration error']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+DIANEAL LOW CALCIUM (ULTRABAG),PERITONEAL DIALYSIS,['Local swelling']
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,"['Blindness', 'Glaucoma', 'Cataract']"
+JAKAFI,MYELOFIBROSIS,"['Splenomegaly', 'Abdominal pain', 'Abdominal distension', 'Aphagia', 'Weight decreased', 'Blood count abnormal']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,"['Type 2 diabetes mellitus', 'Diabetic neuropathy']"
+CHANTIX,SMOKING CESSATION THERAPY,"['Irritability', 'Sleep disorder']"
+LETAIRIS,PULMONARY HYPERTENSION,['Depression']
+PLAN B ONE-STEP,POST COITAL CONTRACEPTION,"['Pregnancy after post coital contraception', 'Maternal exposure before pregnancy']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,COR PULMONALE CHRONIC,['Peripheral swelling']
+MIRENA,CONTRACEPTION,"['Genital haemorrhage', 'Device expulsion']"
+MIRENA,CONTRACEPTION,"['Device issue', 'Scar', 'Uterine perforation', 'Abortion spontaneous', 'Pain', 'Anxiety', 'Emotional distress', 'Device breakage', 'Injury', 'Uterine injury']"
+HOLOXAN,CENTRAL NERVOUS SYSTEM LYMPHOMA,"['Neurological decompensation', 'Disease progression']"
+JAKAFI,MYELODYSPLASTIC SYNDROME,['Weight decreased']
+JAKAFI,MYELOFIBROSIS,['Adverse drug reaction']
+HUMIRA,CROHN^S DISEASE,"['General physical health deterioration', 'Hypotension', 'Syncope']"
+HUMIRA,PSORIASIS,"['Fall', 'Injection site haemorrhage', 'Abdominal pain', 'Fluid retention', 'Gait disturbance', 'Chest pain', 'Paraesthesia', 'Neuropathy peripheral', 'Movement disorder', 'Muscular weakness', 'Hyperhidrosis', 'Lung disorder', 'Dizziness', 'Injection site pain', 'Psoriatic arthropathy', 'Hepatitis', 'Tuberculosis', 'Dyspnoea', 'Epididymitis', 'Dysuria', 'Bladder discomfort', 'Suicidal ideation', 'Gait disturbance', 'Feeling hot', 'Dizziness', 'Tinnitus', 'Aphasia', 'Nerve injury', 'Dysphemia', 'Abdominal discomfort', 'Emotional disorder', 'Disturbance in attention', 'Arthralgia', 'Dysarthria', 'Testicular pain', 'Abdominal pain', 'Gonorrhoea', 'Oedema peripheral', 'Nausea', 'Orchitis', 'Feeling abnormal', 'Nervous system disorder', 'Balance disorder', 'Disorientation', 'Incorrect drug administration rate', 'Pollakiuria', 'Fatigue', 'Injection site pain', 'Peripheral swelling', 'Cerebrovascular accident', 'Unevaluable event', 'Injection site pain', 'Psoriasis']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+TRACLEER,PULMONARY ARTERIAL HYPERTENSION,"['Cardioversion', 'Atrial fibrillation', 'Atrial flutter', 'Cardiac ablation']"
+GILENYA,MULTIPLE SCLEROSIS,"['Retinal tear', 'Visual impairment']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Procedural pain']
+TRACLEER,PULMONARY ARTERIAL HYPERTENSION,"['Coronary arterial stent insertion', 'Renal failure']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+MIRENA,CONTRACEPTION,['Uterine perforation']
+DIANEAL PD2,RENAL FAILURE CHRONIC,['Diabetic foot infection']
+JAKAFI,MYELOFIBROSIS,['Respiratory tract congestion']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+ENBREL,RHEUMATOID ARTHRITIS,"['Injection site reaction', 'Injection site swelling', 'Injection site erythema', 'Injection site warmth']"
+ENBREL,PSORIATIC ARTHROPATHY,"['Arthralgia', 'Musculoskeletal pain', 'Psoriasis', 'Injection site pain']"
+LIPITOR,BLOOD CHOLESTEROL INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Cholelithiasis']
+LIPITOR,BLOOD CHOLESTEROL INCREASED,"['Type 2 diabetes mellitus', 'Weight increased']"
+JAKAFI,MYELOFIBROSIS,"['Nasal congestion', 'Constipation', 'Spondylitis', 'Weight increased']"
+HUMIRA,ANKYLOSING SPONDYLITIS,"['Brain neoplasm', 'Brain neoplasm benign']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+PRADAXA,ATRIAL FIBRILLATION,"['Haematochezia', 'Urinary retention']"
+REVLIMID,MYELODYSPLASTIC SYNDROME,"['Myelodysplastic syndrome', 'Abasia', 'Chronic obstructive pulmonary disease', 'Diabetes mellitus', 'Pancytopenia', 'Asthenia']"
+CORICIDIN HBP COLD AND FLU,NASOPHARYNGITIS,['Drug ineffective']
+CLARITIN CHEWABLE TABLETS,HYPERSENSITIVITY,['Overdose']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Anaemia', 'Fatigue']"
+PARAGARD 380A,POST COITAL CONTRACEPTION,['Device dislocation']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Cardiac disorder', 'Swelling face', 'Insomnia']"
+PRADAXA,ATRIAL FIBRILLATION,['Death']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Pain']
+POMALYST,PLASMA CELL MYELOMA,"['Plasma cell myeloma', 'Musculoskeletal disorder', 'Respiratory disorder', 'Dysphagia', 'Asthenia']"
+GILENYA,MULTIPLE SCLEROSIS,"['Heart rate irregular', 'Atrioventricular block second degree', 'Dyspnoea']"
+LIPITOR,BLOOD CHOLESTEROL INCREASED,['Type 2 diabetes mellitus']
+DIANEAL LOW CALCIUM,RENAL FAILURE CHRONIC,"['Peritoneal dialysis complication', 'Muscle spasms']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Weight increased']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,"['Blindness', 'Kidney infection', 'Cystitis', 'Type 2 diabetes mellitus', 'Micturition disorder', 'Neuropathy peripheral']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Oxygen consumption increased', 'Haemoglobin abnormal']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+AVONEX,MULTIPLE SCLEROSIS,['Multiple sclerosis relapse']
+TECFIDERA,MULTIPLE SCLEROSIS,['Feeling abnormal']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Headache', 'Flushing', 'Abdominal discomfort']"
+TECFIDERA,MULTIPLE SCLEROSIS,['Neutropenia']
+XGEVA,PROPHYLAXIS,['Jaw disorder']
+ARANESP,MYELODYSPLASTIC SYNDROME,['Investigation']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Fatigue', 'Memory impairment', 'Mental impairment', 'Sleep disorder', 'Flushing']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Alanine aminotransferase', 'Anxiety']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Adverse event', 'Nausea', 'Vomiting']"
+TECFIDERA,RELAPSING-REMITTING MULTIPLE SCLEROSIS,"['Muscle spasms', 'Weight decreased', 'Influenza', 'Gait disturbance', 'Cerebellar ataxia', 'Hypersensitivity', 'Headache', 'Insomnia', 'Overdose']"
+XGEVA,PROPHYLAXIS,['Investigation']
+ENBREL,RHEUMATOID ARTHRITIS,['Leukaemia']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Blood pressure increased', 'Palpitations', 'Dry skin', 'Pruritus generalised', 'Flushing']"
+TECFIDERA,MULTIPLE SCLEROSIS,['Adverse event']
+TYSABRI,MULTIPLE SCLEROSIS,['Headache']
+NEULASTA,PROPHYLAXIS,['Hospitalisation']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Upper respiratory tract congestion', 'Sinus disorder']"
+HUMIRA,RHEUMATOID ARTHRITIS,"['Cardiac murmur', 'Mitral valve incompetence', 'Bronchiectasis', 'Atrial septal defect', 'Joint swelling', 'Inflammation', 'Inflammation', 'Cough', 'Upper respiratory tract infection', 'Productive cough', 'Rheumatoid lung', 'Dizziness', 'Blood pressure increased']"
+TECFIDERA,MULTIPLE SCLEROSIS,['Affect lability']
+TYSABRI,MULTIPLE SCLEROSIS,['Memory impairment']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Muscular weakness', 'Tremor', 'Coordination abnormal']"
+ENBREL,ANKYLOSING SPONDYLITIS,"['Decreased immune responsiveness', 'Tuberculosis']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Weight increased', 'Diarrhoea']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Fatigue', 'Flushing']"
+TECFIDERA,RELAPSING-REMITTING MULTIPLE SCLEROSIS,"['Visual impairment', 'Dyspnoea', 'Cold sweat', 'Eye disorder']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Quadriparesis', 'Guillain-Barre syndrome', 'Myelitis transverse', 'Multiple sclerosis relapse']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Urticaria', 'Flushing']"
+TECFIDERA,RELAPSING-REMITTING MULTIPLE SCLEROSIS,"['Small intestinal haemorrhage', 'Flushing', 'Hot flush', 'Pain in extremity', 'Nephrolithiasis', 'Hepatic lesion']"
+TYSABRI,MULTIPLE SCLEROSIS,['Urinary tract infection']
+HUMIRA,CROHN^S DISEASE,"['Heart rate increased', 'Palpitations', 'Chest pain']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Cough', 'Oropharyngeal pain', 'Fatigue']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Primary progressive multiple sclerosis', 'Disturbance in attention', 'Memory impairment', 'Tremor', 'Asthenia']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Urticaria', 'Flushing']"
+NEXPLANON,CONTRACEPTION,['Skin infection']
+XELODA,COLORECTAL CANCER,"['Eating disorder', 'Diarrhoea', 'Vomiting', 'Aphthous stomatitis', 'Aphthous stomatitis', 'Death']"
+ENBREL,RHEUMATOID ARTHRITIS,"['Lower limb fracture', 'Abdominal discomfort', 'Back pain', 'Pain in extremity', 'Pain', 'Headache']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Abdominal pain', 'Pain in extremity', 'Dizziness', 'Chills', 'Headache', 'Hypotension']"
+ARANESP,MYELODYSPLASTIC SYNDROME,"['Investigation', 'Lip infection']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Fatigue', 'Feeling jittery', 'Malaise', 'Prescribed underdose', 'Abdominal pain upper', 'Vomiting', 'Nausea', 'Flushing']"
+AVONEX,MULTIPLE SCLEROSIS,"['Erysipelas', 'Psoriasis']"
+AVONEX,MULTIPLE SCLEROSIS,"['Musculoskeletal disorder', 'Multiple sclerosis', 'Memory impairment', 'Fear', 'Fatigue']"
+TECFIDERA,MULTIPLE SCLEROSIS,['Coordination abnormal']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Constipation', 'Diverticulitis']"
+XGEVA,PROPHYLAXIS,['Death']
+TECFIDERA,RELAPSING-REMITTING MULTIPLE SCLEROSIS,"['Defaecation urgency', 'Gastrointestinal disorder']"
+TECFIDERA,MULTIPLE SCLEROSIS,['Adverse event']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Mobility decreased', 'Nausea', 'Vomiting']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Blood count abnormal', 'Transfusion']"
+TYSABRI,MULTIPLE SCLEROSIS,['Anxiety']
+TASIGNA,CHRONIC MYELOID LEUKAEMIA,"['Respiratory failure', 'Acute kidney injury', 'Cardiac tamponade', 'Acute coronary syndrome']"
+TECFIDERA,MULTIPLE SCLEROSIS,['Alopecia']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Neuropathy peripheral', 'Arthralgia']"
+AVONEX,MULTIPLE SCLEROSIS,['Cognitive disorder']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Dyspnoea', 'Blood pressure increased', 'Asthma', 'Fatigue']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Intervertebral disc protrusion', 'Scoliosis']"
+TYSABRI,MULTIPLE SCLEROSIS,['Confusional state']
+AVONEX,MULTIPLE SCLEROSIS,"['Morton^s neuralgia', 'Contusion']"
+AVONEX,MULTIPLE SCLEROSIS,['Pneumonia']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Intentional drug misuse', 'Flushing', 'Pruritus']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Fatigue', 'Headache', 'Flushing', 'Abdominal pain upper', 'Diarrhoea', 'Erythema']"
+LETAIRIS,PULMONARY HYPERTENSION,['Cardiac arrest']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Headache', 'Abdominal pain', 'Vomiting', 'Flushing']"
+NEXPLANON,CONTRACEPTION,"['Implant site pain', 'Implant site scar', 'Device deployment issue', 'Device kink', 'Device breakage']"
+TECFIDERA,MULTIPLE SCLEROSIS,['Dysgeusia']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Orthostatic hypotension', 'Urticaria']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Extra dose administered', 'Flushing']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Gastrooesophageal reflux disease', 'Rash']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Hyperhidrosis', 'Burning sensation', 'Pruritus']"
+FORTEO,OSTEOPOROSIS,"['Arthralgia', 'Pain in extremity', 'Gait disturbance', 'Mobility decreased', 'Fatigue', 'Asthenia', 'Depressed mood', 'Vision blurred', 'Dry mouth']"
+TECFIDERA,MULTIPLE SCLEROSIS,['Muscular weakness']
+TECFIDERA,MULTIPLE SCLEROSIS,['Visual impairment']
+AVONEX,MULTIPLE SCLEROSIS,"['Stress', 'Memory impairment', 'General symptom', 'Dizziness', 'Asthenia']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Musculoskeletal pain', 'Visual acuity reduced', 'Fatigue', 'Pain in extremity', 'Arthralgia']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Headache', 'Flushing', 'Multiple sclerosis relapse']"
+NEULASTA,PROPHYLAXIS,['Investigation']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Rosacea', 'Intentional underdose', 'Nausea']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Headache', 'Fatigue']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Ear infection', 'Diarrhoea']"
+FORTEO,OSTEOPOROSIS,"['Acute myeloid leukaemia', 'Hypothyroidism', 'Inflammation', 'Bronchitis', 'Hepatic enzyme increased']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Anxiety', 'Insomnia']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Chest pain', 'Flushing', 'Arthralgia', 'Multiple sclerosis relapse']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Dysgeusia', 'Breath odour', 'Hyperhidrosis', 'Fatigue', 'Flushing', 'Erythema', 'Hot flush', 'Gastritis']"
+TYSABRI,MULTIPLE SCLEROSIS,['Malaise']
+TECFIDERA,MULTIPLE SCLEROSIS,['Depression']
+TECFIDERA,MULTIPLE SCLEROSIS,['Gastric disorder']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Muscle spasms', 'Multiple sclerosis', 'Feeling abnormal']"
+AVONEX,MULTIPLE SCLEROSIS,['Epilepsy']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Dehydration', 'Rash pruritic']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Ear discomfort', 'Memory impairment', 'Flushing', 'Feeling hot', 'Erythema']"
+TECFIDERA,MULTIPLE SCLEROSIS,['Rhinorrhoea']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Depression', 'Decreased interest', 'Prescribed underdose', 'Depressed mood', 'Feeling of despair', 'Flushing', 'Abdominal pain upper', 'Nausea', 'Multiple sclerosis relapse', 'Hot flush']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Alopecia', 'Depression']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Gait disturbance', 'Anxiety']"
+AVONEX,MULTIPLE SCLEROSIS,['Adverse event']
+OXYTROL FOR WOMEN,HYPERTONIC BLADDER,['Drug ineffective']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Balance disorder', 'Gait disturbance', 'Mobility decreased']"
+TECFIDERA,MULTIPLE SCLEROSIS,['Dizziness']
+AVONEX,MULTIPLE SCLEROSIS,['Gait disturbance']
+TYSABRI,RELAPSING-REMITTING MULTIPLE SCLEROSIS,"['Multiple sclerosis relapse', 'Depression']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Constipation', 'Flushing', 'Pruritus']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Paraesthesia', 'Multiple sclerosis relapse']"
+TECFIDERA,MULTIPLE SCLEROSIS,['Headache']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Alopecia', 'Hyperaesthesia', 'Arthralgia', 'Oedema peripheral', 'Urinary incontinence', 'Hypoaesthesia', 'Flushing']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Gastrooesophageal reflux disease', 'Diarrhoea', 'Nausea']"
+ARANESP,ANAEMIA,['Investigation']
+ENBREL,RHEUMATOID ARTHRITIS,"['Diarrhoea', 'Cellulitis']"
+TECFIDERA,MULTIPLE SCLEROSIS,['Genital rash']
+ARANESP,ANAEMIA,['Death']
+TYSABRI,MULTIPLE SCLEROSIS,"['Cough', 'Multiple sclerosis', 'Asthenia', 'Pyrexia', 'Influenza']"
+AVONEX,MULTIPLE SCLEROSIS,"['Malaise', 'Vomiting', 'Feeling abnormal']"
+NEULASTA,PROPHYLAXIS,['Investigation']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Dizziness', 'Dyspepsia']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Prescribed underdose', 'Diarrhoea', 'Vomiting', 'Abdominal pain']"
+ARANESP,ANAEMIA,"['Death', 'Investigation']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Dyspnoea', 'Disturbance in attention', 'Hyperhidrosis']"
+TYSABRI,MULTIPLE SCLEROSIS,['Cognitive disorder']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Viral infection', 'Mobility decreased']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Lung neoplasm malignant', 'Pneumonia']"
+TECFIDERA,MULTIPLE SCLEROSIS,['Abdominal distension']
+NEXPLANON,CONTRACEPTION,['Depression']
+AVONEX,MULTIPLE SCLEROSIS,"['Fear of injection', 'Injection site rash']"
+AVONEX,MULTIPLE SCLEROSIS,['Injection site haemorrhage']
+ENBREL,RHEUMATOID ARTHRITIS,"['Diabetes mellitus', 'Agitation']"
+NEULASTA,PROPHYLAXIS,['Hospitalisation']
+SPIRIVA,ASTHMA,"['Off label use', 'Incorrect route of drug administration']"
+NEULASTA,PROPHYLAXIS,['Investigation']
+ENBREL,RHEUMATOID ARTHRITIS,"['Peptic ulcer', 'Hiatus hernia', 'Fatigue', 'Skin discolouration', 'Pain', 'Injection site bruising', 'Injection site erythema', 'Injection site reaction', 'Injection site urticaria', 'Injection site pruritus', 'Injection site swelling', 'Injection site warmth']"
+ENBREL,RHEUMATOID ARTHRITIS,['Death']
+TECFIDERA,MULTIPLE SCLEROSIS,['Pain in extremity']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Influenza like illness', 'Pyrexia']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Malaise', 'Nasopharyngitis']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Respiratory tract infection', 'Staphylococcal infection', 'Bronchitis', 'Upper respiratory tract infection']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Hip fracture', 'Fall', 'Fractured coccyx', 'Fatigue', 'Lethargy', 'Muscular weakness', 'Paraesthesia', 'Central nervous system lesion', 'Neck pain', 'Pain in extremity', 'Emotional distress']"
+AVONEX,MULTIPLE SCLEROSIS,"['Vitamin D decreased', 'Visual impairment', 'Multiple sclerosis relapse']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Nasopharyngitis', 'Nausea', 'Abdominal pain upper', 'Diarrhoea', 'Flushing']"
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,['Incorrect route of drug administration']
+AVONEX,MULTIPLE SCLEROSIS,['Fear of injection']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Cognitive disorder', 'Memory impairment']"
+ARANESP,ANAEMIA,['Investigation']
+TECFIDERA,RELAPSING-REMITTING MULTIPLE SCLEROSIS,"['Paraesthesia', 'Flushing', 'Feeling hot', 'Erythema']"
+NEULASTA,PROPHYLAXIS,['Investigation']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Influenza', 'Mental impairment', 'Stress', 'Paraesthesia', 'Nausea', 'Flushing', 'Erythema', 'Vomiting', 'Abdominal discomfort', 'Gastroenteritis viral']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Insomnia', 'Anxiety', 'Flushing']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Muscle spasms', 'Local swelling']"
+ARANESP,ANAEMIA,"['Investigation', 'Dialysis']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Fatigue', 'Tinnitus', 'Intentional drug misuse', 'Flushing']"
+TYSABRI,MULTIPLE SCLEROSIS,['Hypersensitivity']
+TYSABRI,CROHN^S DISEASE,['Tinnitus']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Paraesthesia', 'Flushing']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Myalgia', 'Headache', 'Road traffic accident']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Prescribed underdose', 'Dyspepsia', 'Diarrhoea', 'Multiple sclerosis relapse']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Cardiac disorder', 'Local swelling', 'Pyrexia', 'Underdose', 'Diarrhoea', 'Flushing', 'Pruritus']"
+TRACLEER,PULMONARY ARTERIAL HYPERTENSION,['Death']
+AVONEX,MULTIPLE SCLEROSIS,['Knee arthroplasty']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Sinus headache', 'Nasal discomfort', 'Flushing', 'Pruritus', 'Burning sensation']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Fatigue', 'Headache']"
+AVONEX,MULTIPLE SCLEROSIS,['Cognitive disorder']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Headache', 'Gastric disorder', 'Flushing']"
+TYSABRI,MULTIPLE SCLEROSIS,['Memory impairment']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Urinary tract infection', 'Nausea', 'Diarrhoea']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Fatigue', 'Flatulence', 'Abdominal distension', 'Tendon disorder', 'Flushing']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Muscular weakness', 'Herpes zoster', 'Musculoskeletal disorder', 'Memory impairment', 'Drug ineffective', 'Alopecia', 'Coordination abnormal', 'Hypoaesthesia', 'Central nervous system lesion', 'Multiple sclerosis relapse']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Headache', 'Vomiting', 'Diarrhoea', 'Abdominal pain', 'Flushing']"
+AVONEX,MULTIPLE SCLEROSIS,['Memory impairment']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Gastric disorder', 'Eructation', 'Abdominal distension', 'Gastrooesophageal reflux disease', 'Migraine', 'Pain', 'Chills', 'Erythema', 'Nausea', 'Flushing', 'Abdominal discomfort']"
+TYSABRI,MULTIPLE SCLEROSIS,['Drug ineffective']
+TYSABRI,MULTIPLE SCLEROSIS,"['Pain', 'Muscle spasms', 'Muscular weakness']"
+ENBREL,RHEUMATOID ARTHRITIS,"['Gallbladder disorder', 'Umbilical hernia', 'Inflammation', 'Burning sensation', 'Injection site pain']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Gastric disorder', 'Vomiting', 'Pruritus']"
+XELODA,COLORECTAL CANCER,"['Vomiting', 'Nausea', 'Hypertension', 'Disease progression', 'Disease progression']"
+CORICIDIN HBP COLD AND FLU,NASOPHARYNGITIS,['Sleep disorder']
+PARAGARD 380A,CONTRACEPTION,"['Pregnancy', 'Drug ineffective']"
+VELCADE,PLASMA CELL MYELOMA,['Death']
+FORTEO,OSTEOPOROSIS,"['Pancreatic carcinoma', 'Nephrolithiasis']"
+VELCADE,PLASMA CELL MYELOMA,"['Palmar-plantar erythrodysaesthesia syndrome', 'Wound secretion']"
+XARELTO,CEREBROVASCULAR ACCIDENT PROPHYLAXIS,"['Cardiac arrest', 'Blood urine present', 'Unresponsive to stimuli', 'Blood pressure decreased', 'Haemoglobin decreased', 'Abdominal pain']"
+EFFEXOR XR,DEPRESSION,"['Fall', 'Back injury', 'Dizziness', 'Headache', 'Drug ineffective']"
+ENBREL,ANKYLOSING SPONDYLITIS,"['Headache', 'Dizziness', 'Optic neuritis']"
+NEULASTA,PROPHYLAXIS,['Intestinal operation']
+GLIVEC,CHRONIC MYELOID LEUKAEMIA,['Death']
+NEULASTA,PROPHYLAXIS,['Investigation']
+ENBREL,RHEUMATOID ARTHRITIS,['Rheumatoid arthritis']
+GLIVEC,CHRONIC MYELOID LEUKAEMIA,"['Death', 'No therapeutic response']"
+CORICIDIN HBP COLD AND FLU,NASOPHARYNGITIS,['Drug ineffective for unapproved indication']
+XARELTO,CEREBROVASCULAR ACCIDENT PROPHYLAXIS,"['Blindness', 'Deafness', 'Loss of consciousness', 'Contusion', 'Glaucoma', 'Pruritus', 'Muscle disorder', 'Confusional state', 'Skin lesion', 'Pain', 'Oral disorder', 'Delusion', 'Aggression']"
+GLIVEC,CHRONIC MYELOID LEUKAEMIA,['Death']
+ERLOTINIB TABLET,NON-SMALL CELL LUNG CANCER,"['Epistaxis', 'Mucosal haemorrhage', 'Pain', 'Vomiting', 'Diarrhoea', 'Malignant neoplasm progression']"
+NEULASTA,BREAST CANCER,"['Cough', 'Pain', 'Vomiting', 'Back pain', 'Abdominal pain', 'Nausea']"
+CORICIDIN HBP COLD AND FLU,NASOPHARYNGITIS,['Drug effect decreased']
+ENBREL,PSORIATIC ARTHROPATHY,"['Fall', 'Bedridden', 'Limb injury', 'Drug administration error', 'Pruritus', 'Incorrect dose administered', 'Ear infection', 'Application site vesicles', 'Application site erythema', 'Application site pruritus']"
+OXYTROL FOR WOMEN,HYPERTONIC BLADDER,"['Scab', 'Application site rash', 'Pruritus']"
+SOLIRIS,PAROXYSMAL NOCTURNAL HAEMOGLOBINURIA,['Haemolysis']
+ERLOTINIB TABLET,NON-SMALL CELL LUNG CANCER,"['Anaemia', 'Malignant neoplasm progression', 'Diarrhoea']"
+CORICIDIN HBP COLD AND FLU,NASOPHARYNGITIS,"['Sleep disorder', 'Drug effect decreased', 'Off label use']"
+OMNISCAN,RENAL CELL CARCINOMA,['Nephrogenic systemic fibrosis']
+ACLASTA,OSTEOPOROSIS,['Death']
+REVLIMID,PLASMA CELL MYELOMA,"['Death', 'Diarrhoea', 'Septic shock', 'Syncope', 'Pneumonia', 'Neutropenia', 'Thrombocytopenia', 'Fatigue', 'Plasma cell myeloma', 'Cough']"
+ENBREL,RHEUMATOID ARTHRITIS,['Lung neoplasm malignant']
+ERLOTINIB TABLET,LUNG NEOPLASM MALIGNANT,['Death']
+NEULASTA,PROPHYLAXIS,['Investigation']
+XELODA,COLORECTAL CANCER,"['Disease progression', 'Pain', 'Vomiting', 'Nausea', 'Anaemia', 'Diarrhoea', 'Hypertension']"
+VELCADE,PLASMA CELL MYELOMA,['Gastrointestinal disorder']
+ERLOTINIB TABLET,LUNG NEOPLASM MALIGNANT,"['Abdominal pain', 'Flatulence', 'Muscle spasms', 'Rash', 'Flatulence', 'Eructation', 'Constipation', 'Eructation', 'Vision blurred', 'Blood pressure increased', 'Anxiety', 'Hypophagia', 'Weight decreased', 'Rash', 'Rash', 'Acne', 'Pruritus']"
+REVLIMID,PLASMA CELL MYELOMA,"['Memory impairment', 'Chronic lymphocytic leukaemia']"
+ERLOTINIB TABLET,LUNG NEOPLASM MALIGNANT,"['Haemoptysis', 'Dyspnoea', 'Fatigue']"
+NEULASTA,PROPHYLAXIS,['Investigation']
+TASIGNA,CHRONIC MYELOID LEUKAEMIA,['Lower respiratory tract infection']
+ERLOTINIB TABLET,LUNG NEOPLASM MALIGNANT,"['Fall', 'Full blood count decreased', 'Contusion', 'Fatigue', 'Diarrhoea', 'Decreased appetite']"
+VELCADE,PLASMA CELL MYELOMA,['Gastrointestinal disorder']
+REVLIMID,PLASMA CELL MYELOMA,"['Glaucoma', 'Rash', 'Oedema peripheral', 'Lacrimation increased', 'Oedema peripheral', 'Pain', 'Fatigue', 'Herpes virus infection']"
+NEULASTA,PROPHYLAXIS,['Investigation']
+COMBIVENT,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,"['Overdose', 'Drug ineffective', 'Product quality issue', 'Product quality issue']"
+REVLIMID,PLASMA CELL MYELOMA,['Death']
+OXYTROL FOR WOMEN,NOCTURIA,"['Drug effect decreased', 'Product adhesion issue', 'Drug administered at inappropriate site']"
+HUMIRA,RHEUMATOID ARTHRITIS,"['Osteoarthritis', 'Arthritis', 'Drug ineffective']"
+ERLOTINIB TABLET,NON-SMALL CELL LUNG CANCER,"['Asphyxia', 'Epilepsy', 'Metastases to central nervous system', 'Lung infection']"
+ERLOTINIB TABLET,LUNG NEOPLASM MALIGNANT,['Death']
+REVLIMID,PLASMA CELL MYELOMA,"['Hepatorenal syndrome', 'Febrile neutropenia', 'Neutropenia', 'Lung adenocarcinoma', 'Toxicity to various agents', 'Plasma cell myeloma', 'Pneumonia', 'Sepsis', 'Gastrointestinal disorder', 'Hepatotoxicity', 'Deep vein thrombosis', 'Diarrhoea', 'Death', 'Amaurosis fugax', 'Atrial fibrillation', 'Syncope', 'Constipation', 'Infection']"
+XARELTO,CEREBROVASCULAR ACCIDENT PROPHYLAXIS,"['Erythema multiforme', 'General physical health deterioration', 'Local swelling', 'Pyrexia']"
+COMBIVENT,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,"['Drug effect decreased', 'Product quality issue']"
+SUTENT,RENAL CELL CARCINOMA,"['Death', 'Pain', 'Pruritus', 'Mucosal inflammation']"
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,['Incorrect route of drug administration']
+VELCADE,PLASMA CELL MYELOMA,['Gastrointestinal disorder']
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,"['Dyspnoea', 'Product quality issue']"
+NEULASTA,PROPHYLAXIS,['Investigation']
+CLOZARIL,SCHIZOPHRENIA,['Overdose']
+PROGRAF,RENAL TRANSPLANT,['Death']
+PRADAXA,ATRIAL FIBRILLATION,"['Paraesthesia oral', 'Ageusia', 'Dysgeusia', 'Tongue disorder', 'Glossodynia', 'Abdominal pain upper', 'Abdominal pain upper']"
+FORTEO,OSTEOPOROSIS,"['Pneumonia', 'Fall', 'Face injury', 'Loss of consciousness', 'Asthenia', 'Contusion', 'Fall', 'Head injury', 'Asthenia']"
+OXYTROL FOR WOMEN,POLLAKIURIA,['Drug effect decreased']
+OMNISCAN,RENAL TRANSPLANT,['Nephrogenic systemic fibrosis']
+REVLIMID,PLASMA CELL MYELOMA,['Metastatic malignant melanoma']
+XGEVA,PROPHYLAXIS,['Death']
+GLIVEC,CHRONIC MYELOID LEUKAEMIA,['Death']
+NEULASTA,PROPHYLAXIS,['Hospitalisation']
+LYRICA,BIPOLAR DISORDER,"['Drug interaction', 'Weight increased']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Sinus headache', 'Rhinorrhoea', 'Nasal congestion', 'Sinus disorder']"
+TRACLEER,PULMONARY ARTERIAL HYPERTENSION,['Respiratory failure']
+MIRENA,CONTRACEPTION,"['Device difficult to use', 'Incorrect drug administration duration']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Dyspnoea']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Pruritus', 'Infection parasitic']"
+MIRENA,CONTRACEPTION,"['Uterine perforation', 'Procedural pain', 'Abdominal pain', 'Dysmenorrhoea', 'Abdominal pain lower', 'Menstruation irregular']"
+NEULASTA,PROPHYLAXIS,['Hospitalisation']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+CHANTIX,SMOKING CESSATION THERAPY,['Drug ineffective']
+HUMIRA,ANKYLOSING SPONDYLITIS,"['Convulsion', 'Stress', 'Unevaluable event']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,"['Neuropathy peripheral', 'Type 2 diabetes mellitus']"
+TRACLEER,PULMONARY ARTERIAL HYPERTENSION,"['Coronary artery occlusion', 'Malaise', 'Drug interaction', 'Drug ineffective']"
+LETAIRIS,COR PULMONALE CHRONIC,['Dyspnoea exertional']
+LIPITOR,BLOOD TRIGLYCERIDES INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,COR PULMONALE CHRONIC,['Dyspnoea']
+LETAIRIS,PULMONARY HYPERTENSION,['Rash']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,"['Type 2 diabetes mellitus', 'Blindness', 'Renal osteodystrophy', 'Cataract', 'Neuropathy peripheral', 'Renal disorder', 'Hyperkalaemia', 'Cardiac disorder']"
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,"['Cataract', 'Cataract', 'Dyspnoea', 'Product quality issue', 'Product quality issue', 'Product quality issue']"
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,"['Fatigue', 'Asthenia', 'Type 2 diabetes mellitus']"
+NEULASTA,PROPHYLAXIS,['Hospitalisation']
+LIPITOR,BLOOD CHOLESTEROL INCREASED,"['Neuralgia', 'Type 2 diabetes mellitus', 'Neuropathy peripheral']"
+SUTENT,RENAL CELL CARCINOMA,['Diarrhoea']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+LIPITOR,BLOOD TRIGLYCERIDES INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Pain in extremity', 'Gait disturbance', 'Peripheral swelling', 'Swelling']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Mass']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+MIRENA,CONTRACEPTION,"['Uterine perforation', 'Uterine disorder', 'Emotional distress', 'Device issue', 'Injury', 'Pain']"
+TRACLEER,PULMONARY ARTERIAL HYPERTENSION,"['Pulmonary arterial hypertension', 'Condition aggravated']"
+REMICADE,INFLAMMATORY BOWEL DISEASE,"['Lupus-like syndrome', 'Therapeutic response decreased', 'Serositis', 'Arthropathy', 'Dermatitis', 'Fatigue', 'Pyrexia']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Nasal congestion']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+TRACLEER,PULMONARY ARTERIAL HYPERTENSION,"['Pulmonary arterial hypertension', 'Condition aggravated']"
+NEULASTA,PROPHYLAXIS,['Hospitalisation']
+LETAIRIS,COR PULMONALE CHRONIC,"['Pain in extremity', 'Cellulitis']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Catheterisation cardiac', 'Heart valve incompetence', 'General physical health deterioration']"
+ADVIL,PAIN,['Drug effect incomplete']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+REMICADE,RHEUMATOID ARTHRITIS,"['Syncope', 'Fall', 'Joint swelling', 'Rheumatoid arthritis', 'Painful respiration', 'Skeletal injury', 'Pain', 'Swelling', 'Excoriation']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+MIRENA,CONTRACEPTION,"['Chlamydia test positive', 'Device misuse']"
+CHANTIX,SMOKING CESSATION THERAPY,"['Dyspnoea', 'Pain of skin', 'Irritability', 'Asthenia']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Dyspnoea', 'Fatigue', 'Peripheral swelling']"
+TRACLEER,PULMONARY ARTERIAL HYPERTENSION,"['Pulmonary arterial hypertension', 'Condition aggravated']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY HYPERTENSION,"['Fatigue', 'Dyspnoea']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,COR PULMONALE CHRONIC,"['Malaise', 'Nasopharyngitis']"
+LIPITOR,BLOOD TRIGLYCERIDES INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+PRADAXA,CEREBROVASCULAR ACCIDENT PROPHYLAXIS,"['Erythema', 'Pain in extremity', 'Arthralgia']"
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,COR PULMONALE CHRONIC,['Nausea']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Throat irritation', 'Unevaluable event']"
+ARANESP,RENAL FAILURE CHRONIC,['Depression']
+LIPITOR,BLOOD TRIGLYCERIDES INCREASED,"['Type 2 diabetes mellitus', 'Metabolic syndrome', 'Blood triglycerides increased']"
+PROLIA,OSTEOPOROSIS POSTMENOPAUSAL,"['Adverse reaction', 'Blood calcium decreased', 'Asthenia']"
+LETAIRIS,COR PULMONALE CHRONIC,['Sinusitis']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,COR PULMONALE CHRONIC,['Nasopharyngitis']
+LIPITOR,BLOOD TRIGLYCERIDES INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,COR PULMONALE CHRONIC,['Dyspnoea']
+LETAIRIS,COR PULMONALE CHRONIC,"['Dyspnoea', 'Oxygen consumption increased', 'Drug ineffective']"
+LIPITOR,BLOOD TRIGLYCERIDES INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Cough']
+ENBREL,PSORIASIS,"['Headache', 'Chest pain']"
+LIPITOR,BLOOD TRIGLYCERIDES INCREASED,"['Arthritis', 'Type 2 diabetes mellitus']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Dizziness']
+PRADAXA,CEREBROVASCULAR ACCIDENT PROPHYLAXIS,['Cerebrovascular accident']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+TRACLEER,PULMONARY ARTERIAL HYPERTENSION,['Death']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Dizziness', 'Flushing']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Pulmonary oedema', 'Dyspnoea', 'Oedema']"
+LETAIRIS,SCLERODERMA,"['Eye inflammation', 'Peripheral swelling']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Influenza like illness', 'Dehydration']"
+NEXPLANON,CONTRACEPTION,['Cellulitis']
+LETAIRIS,COR PULMONALE CHRONIC,['Visual impairment']
+LETAIRIS,PULMONARY HYPERTENSION,['Cough']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Unevaluable event']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Condition aggravated']
+LETAIRIS,COR PULMONALE CHRONIC,['Upper respiratory tract infection']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Nasal congestion', 'Back pain']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Influenza', 'Pharyngeal inflammation']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Syncope', 'Nausea']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Device dislocation']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Product packaging issue', 'Arthritis']"
+CHANTIX,SMOKING CESSATION THERAPY,['Drug ineffective']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Haemodynamic instability', 'Anaemia']"
+STELARA,PSORIASIS,['Pneumonia']
+LETAIRIS,COR PULMONALE CHRONIC,"['Dyspnoea', 'Unevaluable event']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Dehydration', 'Influenza']"
+LETAIRIS,COR PULMONALE CHRONIC,"['Wrong technique in product usage process', 'Hypotension']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Dehydration']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Headache']
+LETAIRIS,COR PULMONALE CHRONIC,['Oropharyngeal pain']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Limb injury']
+LETAIRIS,HIV INFECTION,['Swelling']
+AVANDIA,DIABETES MELLITUS,"['Myocardial infarction', 'Cardiac failure congestive', 'Atrial fibrillation']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Oedema']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,"['Glucose tolerance impaired', 'Type 2 diabetes mellitus', 'Diabetic neuropathy', 'Glycosylated haemoglobin']"
+CUBICIN,ENDOCARDITIS,['Death']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Productive cough', 'Cough']"
+OXYTROL FOR WOMEN,NOCTURIA,"['Drug ineffective', 'Product closure removal difficult']"
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Dyspnoea', 'Hypoacusis']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Unevaluable event', 'Nausea']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Peripheral swelling', 'Dyspnoea']"
+LETAIRIS,SCLERODERMA,['Tooth infection']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Insomnia', 'Asthenia']"
+LETAIRIS,COR PULMONALE CHRONIC,"['Unevaluable event', 'Fatigue', 'Sinusitis', 'Chest pain']"
+LETAIRIS,COR PULMONALE CHRONIC,"['Swelling', 'Asthenia']"
+LETAIRIS,PULMONARY HYPERTENSION,['Vision blurred']
+LIPITOR,BLOOD TRIGLYCERIDES INCREASED,"['Type 2 diabetes mellitus', 'Glucose tolerance impaired']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Feeling cold', 'Chills']"
+LETAIRIS,COR PULMONALE CHRONIC,"['Pallor', 'Malaise']"
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Drug hypersensitivity']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Bronchitis']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Wheezing', 'Dyspnoea']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Dizziness', 'Vision blurred', 'Malaise']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Decreased appetite', 'Dysgeusia', 'Peripheral swelling']"
+DIANEAL LOW CALCIUM,RENAL FAILURE CHRONIC,"['Local swelling', 'Dyspnoea']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Dyspnoea', 'Oedema']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Oedema peripheral', 'Fluid retention']"
+DIANEAL LOW CALCIUM,RENAL FAILURE CHRONIC,"['Death', 'Convulsion', 'Hypokinesia', 'Skin necrosis', 'Decubitus ulcer', 'Multimorbidity']"
+LETAIRIS,PULMONARY HYPERTENSION,['Haemoglobin decreased']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Cardiac failure', 'Oedema']"
+LETAIRIS,PULMONARY HYPERTENSION,['Cough']
+XARELTO,CEREBROVASCULAR ACCIDENT PROPHYLAXIS,"['Investigation', 'Adverse event']"
+REMICADE,INFLAMMATORY BOWEL DISEASE,['Inflammatory bowel disease']
+LETAIRIS,PULMONARY HYPERTENSION,"['Oedema peripheral', 'Nasal congestion']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Respiratory tract congestion', 'Throat irritation', 'Nasopharyngitis', 'Cough', 'Dysphonia', 'Musculoskeletal chest pain', 'Nasal congestion']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Swelling']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Pulmonary arterial hypertension']
+LETAIRIS,PULMONARY HYPERTENSION,"['Weight increased', 'Oedema']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Ear infection', 'Sinusitis']"
+LETAIRIS,PULMONARY HYPERTENSION,['Fluid retention']
+DIANEAL LOW CALCIUM (ULTRABAG),PERITONEAL DIALYSIS,['Fluid overload']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Syncope']
+LETAIRIS,PULMONARY HYPERTENSION,['Bronchitis']
+STELARA,PSORIASIS,"['Adenoma benign', 'Granuloma']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Abdominal pain']
+LETAIRIS,COR PULMONALE CHRONIC,['Thyroid neoplasm']
+REMICADE,CROHN^S DISEASE,['Irritable bowel syndrome']
+LETAIRIS,COR PULMONALE CHRONIC,['Dry mouth']
+LETAIRIS,PULMONARY HYPERTENSION,['Dyspnoea']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Pulmonary oedema', 'Viral infection']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Pleural effusion', 'Fluid overload']"
+LETAIRIS,COR PULMONALE CHRONIC,"['Unevaluable event', 'Oedema', 'Oxygen supplementation', 'Cough', 'No therapeutic response', 'Insomnia', 'Sleep disorder', 'Dyspnoea']"
+AUBAGIO,MULTIPLE SCLEROSIS,"['Paraesthesia', 'Cystitis', 'Kidney infection', 'Flushing', 'Acne', 'Contusion', 'Erythema', 'Swollen tongue', 'Urinary tract infection', 'Influenza', 'Alopecia']"
+VELCADE,PLASMA CELL MYELOMA,"['Injection site nodule', 'Injection site discolouration', 'Injection site dryness', 'Product quality issue']"
+MIRENA,CONTRACEPTION,['Genital haemorrhage']
+LETAIRIS,COR PULMONALE CHRONIC,['Dizziness']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Pancreatitis', 'Haematemesis']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,COR PULMONALE CHRONIC,['Malaise']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Acute sinusitis']
+DIANEAL LOW CALCIUM,RENAL FAILURE CHRONIC,['Dehydration']
+LETAIRIS,COR PULMONALE CHRONIC,"['Therapy cessation', 'Malaise', 'Dyspnoea']"
+REMICADE,INFLAMMATORY BOWEL DISEASE,['Clostridium difficile infection']
+CUBICIN,ENDOCARDITIS,['Septic shock']
+LETAIRIS,SCLERODERMA,"['Pain in extremity', 'Paraesthesia', 'Drug dose omission', 'Feeling abnormal', 'Dyspnoea', 'Cyanosis', 'Condition aggravated']"
+STELARA,PSORIASIS,"['Atrial fibrillation', 'Oropharyngeal pain']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Heart rate decreased']
+LETAIRIS,COR PULMONALE CHRONIC,"['Malaise', 'Drug dose omission']"
+LETAIRIS,COR PULMONALE CHRONIC,"['Vomiting', 'Swelling face', 'Eye pruritus', 'Pyrexia', 'Eye swelling', 'Asthma', 'Rash generalised']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+COPAXONE,MULTIPLE SCLEROSIS,"['Cerebral venous thrombosis', 'Venous haemorrhage', 'Convulsion']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Wheezing', 'Dyspnoea']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Anaemia']
+REMICADE,ANKYLOSING SPONDYLITIS,['Gastric disorder']
+PICATO,ACTINIC KERATOSIS,"['Application site vesicles', 'Application site erythema', 'Drug ineffective', 'Inappropriate schedule of drug administration']"
+DIANEAL LOW CALCIUM,RENAL FAILURE CHRONIC,['Influenza']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Procedural pain']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Influenza']
+LETAIRIS,COR PULMONALE CHRONIC,['Atrial fibrillation']
+LIPITOR,BLOOD CHOLESTEROL INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Fluid overload']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Chest pain']
+DIANEAL PD2,PERITONEAL DIALYSIS,"['Pulmonary oedema', 'Hypertensive crisis']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Laryngitis']
+AVANDIA,DIABETES MELLITUS,['Adverse event']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,COR PULMONALE CHRONIC,['Phlebitis']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,EMPHYSEMA,"['Drug ineffective', 'Peripheral swelling']"
+LETAIRIS,PULMONARY HYPERTENSION,['Productive cough']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,COR PULMONALE CHRONIC,['Constipation']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Asthenia', 'Unevaluable event', 'Condition aggravated']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Burning sensation', 'Paraesthesia']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Peritoneal dialysis complication', 'Peripheral swelling', 'Abdominal distension', 'Procedural pain']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Back pain', 'Malaise']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Swelling']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Oropharyngeal pain', 'Rhinorrhoea']"
+POMALYST,PLASMA CELL MYELOMA,['Hypersensitivity']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Influenza']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Headache', 'Cough']"
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,['Incorrect route of drug administration']
+LETAIRIS,COR PULMONALE CHRONIC,['Dyspnoea']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Peritoneal dialysis complication', 'Abdominal distension']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Nasal congestion', 'Upper respiratory tract congestion', 'Dyspnoea']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Flushing', 'Feeling of body temperature change', 'Fluid retention', 'Weight increased', 'Rash']"
+COPAXONE,MULTIPLE SCLEROSIS,['Secondary progressive multiple sclerosis']
+DIANEAL LOW CALCIUM (ULTRABAG),PERITONEAL DIALYSIS,"['Urinary tract infection', 'Pneumonia', 'Sepsis', 'Infected skin ulcer', 'Cellulitis', 'Subcutaneous abscess', 'Staphylococcal infection', 'Hypotension']"
+DIANEAL LOW CALCIUM,RENAL FAILURE CHRONIC,"['Sepsis', 'Incision site infection', 'Enterococcal infection']"
+LETAIRIS,PULMONARY HYPERTENSION,['Medical device implantation']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Weight decreased']
+LETAIRIS,COR PULMONALE CHRONIC,['Viral infection']
+LETAIRIS,COR PULMONALE CHRONIC,"['Cough', 'Dizziness']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Hypotension']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Dyspepsia']
+CORICIDIN HBP COLD AND FLU,NASOPHARYNGITIS,['Somnolence']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Fall']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Pain in extremity', 'Varicose vein']"
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Abdominal distension']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Urticaria', 'Pruritus generalised', 'Pain']"
+GILENYA,MULTIPLE SCLEROSIS,"['Benign breast neoplasm', 'Prescribed underdose']"
+LETAIRIS,PULMONARY HYPERTENSION,['Arthropathy']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Unevaluable event', 'Feeling cold']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Dysphonia', 'Dehydration']"
+LETAIRIS,PULMONARY HYPERTENSION,['Peripheral swelling']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Peritoneal dialysis complication']
+LETAIRIS,COR PULMONALE CHRONIC,['Nasopharyngitis']
+LETAIRIS,COR PULMONALE CHRONIC,"['Restless legs syndrome', 'Nasopharyngitis']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,"['Type 2 diabetes mellitus', 'Diabetic neuropathy', 'Impaired driving ability', 'Diabetic vascular disorder']"
+LIPITOR,BLOOD CHOLESTEROL INCREASED,['Type 2 diabetes mellitus']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Discomfort']
+LETAIRIS,PULMONARY HYPERTENSION,"['Peripheral swelling', 'Loss of consciousness']"
+LETAIRIS,COR PULMONALE CHRONIC,['Iron deficiency anaemia']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Dyspnoea']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Oxygen supplementation']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+PICATO,ACTINIC KERATOSIS,['Application site dryness']
+LETAIRIS,COR PULMONALE CHRONIC,['Arthritis']
+LETAIRIS,COR PULMONALE CHRONIC,"['Dyspnoea', 'Back disorder']"
+SOLIRIS,PAROXYSMAL NOCTURNAL HAEMOGLOBINURIA,['Ill-defined disorder']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Bronchitis']
+LETAIRIS,COR PULMONALE CHRONIC,"['Somnolence', 'Dyspnoea', 'Abnormal dreams']"
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,"['Type 2 diabetes mellitus', 'Cerebrovascular accident']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Peritoneal dialysis complication']
+LETAIRIS,COR PULMONALE CHRONIC,['Unevaluable event']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Pulmonary arterial hypertension']
+LETAIRIS,COR PULMONALE CHRONIC,['Oedema']
+LETAIRIS,PULMONARY HYPERTENSION,"['Ocular hyperaemia', 'Eye pain']"
+LETAIRIS,PULMONARY HYPERTENSION,['Rash']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Swollen tongue', 'Dyspepsia', 'Procedural pain', 'Peritonitis']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY HYPERTENSION,['Nasopharyngitis']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Sinusitis']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Parotid gland enlargement']
+LETAIRIS,COR PULMONALE CHRONIC,['Nasopharyngitis']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Hernia', 'Inguinal hernia', 'Hydrocele']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Convulsion', 'Nephropathy toxic']"
+LETAIRIS,COR PULMONALE CHRONIC,['Respiratory tract infection']
+LETAIRIS,COR PULMONALE CHRONIC,"['Myalgia', 'Rectal haemorrhage', 'Hyperhidrosis']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Sinusitis']
+LETAIRIS,COR PULMONALE CHRONIC,['Unevaluable event']
+LETAIRIS,COR PULMONALE CHRONIC,['Arthropathy']
+AVANDIA,DIABETES MELLITUS,['Adverse event']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Nausea']
+LETAIRIS,COR PULMONALE CHRONIC,['Headache']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Extremity necrosis', 'Nasopharyngitis', 'Headache', 'Drug hypersensitivity', 'Pruritus']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY HYPERTENSION,"['Vasodilatation', 'Erythema']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Dyspnoea', 'Exercise tolerance decreased', 'Chest discomfort', 'Fatigue']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Peripheral swelling', 'Nasal congestion', 'Fatigue', 'Swelling', 'Fluid retention', 'Headache', 'Constipation']"
+LETAIRIS,COR PULMONALE CHRONIC,['Fatigue']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Nasal congestion', 'Cough']"
+LETAIRIS,COR PULMONALE CHRONIC,['Cataract']
+LETAIRIS,COR PULMONALE CHRONIC,['Gastrooesophageal reflux disease']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,"['Type 2 diabetes mellitus', 'Blindness', 'Neuropathy peripheral']"
+TASIGNA,CHRONIC MYELOID LEUKAEMIA,"['Maternal exposure during pregnancy', 'Normal newborn']"
+LETAIRIS,COR PULMONALE CHRONIC,"['Drug hypersensitivity', 'Headache']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Unevaluable event']
+DIANEAL LOW CALCIUM (ULTRABAG),PERITONEAL DIALYSIS,['Peritonitis bacterial']
+LETAIRIS,CONNECTIVE TISSUE DISORDER,['Systemic lupus erythematosus']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,"['Type 2 diabetes mellitus', 'Glucose tolerance impaired']"
+LETAIRIS,COR PULMONALE CHRONIC,['Dyspnoea']
+CLOZARIL,SCHIZOPHRENIA,"['Cardiac arrest', 'Myocardial infarction', 'White blood cell count increased', 'Neutrophil count increased']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Dizziness', 'Fatigue']"
+PICATO,ACTINIC KERATOSIS,"['Application site pustules', 'Inappropriate schedule of drug administration', 'Drug administration error']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Back injury']
+XARELTO,CEREBROVASCULAR ACCIDENT PROPHYLAXIS,['Cerebral thrombosis']
+LETAIRIS,PULMONARY HYPERTENSION,"['Dyspnoea', 'Dizziness', 'Pain in extremity']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Weight decreased']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Oedema peripheral']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Nasal congestion']
+LETAIRIS,PORTOPULMONARY HYPERTENSION,"['Hair texture abnormal', 'Trichorrhexis']"
+LETAIRIS,PORTOPULMONARY HYPERTENSION,"['Diarrhoea', 'Headache']"
+XARELTO,CEREBROVASCULAR ACCIDENT PROPHYLAXIS,"['Gastrointestinal haemorrhage', 'Haemoglobin decreased', 'Incorrect dose administered']"
+PICATO,ACTINIC KERATOSIS,"['Application site erythema', 'Incorrect drug administration duration']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Incision site rash']
+XARELTO,CEREBROVASCULAR ACCIDENT PROPHYLAXIS,"['Pleural effusion', 'Incorrect dose administered']"
+LIPITOR,BLOOD TRIGLYCERIDES INCREASED,"['Diabetic neuropathy', 'Type 2 diabetes mellitus']"
+LETAIRIS,COR PULMONALE CHRONIC,"['Abdominal discomfort', 'Asthenia', 'Abdominal pain upper']"
+PARAGARD 380A,CONTRACEPTION,"['Embedded device', 'Device breakage']"
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,"['Type 2 diabetes mellitus', 'Muscle spasms']"
+HUMIRA,CROHN^S DISEASE,"['Alopecia areata', 'Alopecia']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Unevaluable event', 'Dizziness']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Dyspnoea', 'Pulmonary arterial hypertension']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Nasopharyngitis']
+ACLASTA,OSTEOPOROSIS,"['Cerebral haemorrhage', 'Fall', 'Decubitus ulcer', 'Acetabulum fracture', 'Platelet count decreased', 'Haemoglobin decreased', 'C-reactive protein increased', 'Prothrombin time prolonged', 'Blood creatinine increased']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Peripheral swelling', 'Dyspnoea', 'Swelling']"
+PROLIA,OSTEOPOROSIS POSTMENOPAUSAL,"['Spinal fracture', 'Drug ineffective']"
+LETAIRIS,COR PULMONALE CHRONIC,"['Headache', 'Muscular weakness']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Throat irritation', 'Nausea']"
+LETAIRIS,PULMONARY HYPERTENSION,['Systemic lupus erythematosus']
+OXYTROL FOR WOMEN,NOCTURIA,"['Off label use', 'Drug ineffective']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Hypotension']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Oedema peripheral', 'Condition aggravated', 'No therapeutic response']"
+PICATO,ACTINIC KERATOSIS,"['Application site erythema', 'Application site pain', 'Application site swelling', 'Drug dispensing error', 'Drug dispensing error', 'Incorrect dose administered']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Nasal congestion']
+COMBIVENT,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,"['Dyspnoea', 'Product quality issue']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Asthenia', 'Hypotension', 'Hypotension', 'Peripheral swelling']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+HUMIRA,PSORIATIC ARTHROPATHY,"['Asthenia', 'Nausea', 'Vomiting', 'Decreased appetite', 'Blood electrolytes abnormal', 'Renal disorder']"
+OXYTROL FOR WOMEN,POLLAKIURIA,"['Hypersensitivity', 'Rash', 'Pruritus']"
+PARAGARD 380A,CONTRACEPTION,"['Pregnancy with contraceptive device', 'Drug ineffective', 'Device dislocation']"
+LETAIRIS,PULMONARY HYPERTENSION,['Dermatitis contact']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+SUTENT,RENAL CELL CARCINOMA,"['Organ failure', 'Aphagia', 'Gastrointestinal disorder']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Dyspnoea', 'Fatigue']"
+LETAIRIS,CONNECTIVE TISSUE DISORDER,['Sleep disorder']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Hot flush']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Nasopharyngitis', 'Cough', 'Dyspnoea']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Upper respiratory tract infection']
+LETAIRIS,COR PULMONALE CHRONIC,['Medical device complication']
+LETAIRIS,PULMONARY HYPERTENSION,['Drug ineffective']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Lung infection', 'Candida infection', 'Respiratory tract infection', 'Laryngeal pain']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Dry mouth', 'Dry skin', 'Unevaluable event', 'Nasal congestion']"
+CLOZARIL,SCHIZOPHRENIA,"['Pathogen resistance', 'Infection', 'Malaise', 'Lower respiratory tract infection', 'Diabetes mellitus', 'Overweight', 'Differential white blood cell count abnormal', 'Eosinophil count increased', 'White blood cell count increased', 'Neutrophil count increased', 'Platelet count increased']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['No therapeutic response']
+LETAIRIS,PULMONARY HYPERTENSION,['Swelling']
+PARAGARD 380A,CONTRACEPTION,"['Metrorrhagia', 'Complication of device insertion']"
+LETAIRIS,PULMONARY HYPERTENSION,['Sinusitis']
+LETAIRIS,HEART DISEASE CONGENITAL,['Rash']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Ligament sprain']
+LETAIRIS,SCLERODERMA,['Peripheral swelling']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Dyspnoea']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY HYPERTENSION,['Malaise']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Feeling jittery', 'Nervousness']"
+LETAIRIS,HIV INFECTION,['Dyspnoea']
+LETAIRIS,SCLERODERMA,['Peripheral swelling']
+EFFEXOR XR,DEPRESSION,"['Cardiac disorder', 'Palpitations']"
+LETAIRIS,HIV INFECTION,['Nasal congestion']
+LETAIRIS,PULMONARY HYPERTENSION,"['Vomiting', 'Headache', 'Diarrhoea', 'Abdominal pain upper']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Unevaluable event', 'Dyspnoea']"
+LETAIRIS,PULMONARY HYPERTENSION,['Nasopharyngitis']
+REMICADE,CROHN^S DISEASE,"['Fistula', 'Frequent bowel movements']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Angioedema', 'Hypersensitivity', 'Dyspnoea']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Anaemia']
+LETAIRIS,COR PULMONALE CHRONIC,"['Nasal congestion', 'Lip disorder', 'Peripheral swelling']"
+STELARA,PSORIASIS,['Respiratory tract infection viral']
+PICATO,ACTINIC KERATOSIS,"['Eyelid ptosis', 'Eye swelling']"
+REMICADE,CROHN^S DISEASE,"['Intestinal adenocarcinoma', 'Anaemia']"
+LETAIRIS,HIV INFECTION,['Nasopharyngitis']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Nasopharyngitis', 'Inappropriate schedule of drug administration']"
+LETAIRIS,COR PULMONALE CHRONIC,['Constipation']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,BLOOD CHOLESTEROL INCREASED,['Type 2 diabetes mellitus']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Nasal congestion']
+PACLITAXEL,NON-SMALL CELL LUNG CANCER,"['Dehydration', 'Febrile neutropenia']"
+JAKAFI,MYELOFIBROSIS,['Tenderness']
+JAKAFI,MYELOFIBROSIS,"['Anaemia', 'Haemoglobin decreased', 'Pain', 'Headache', 'Confusional state', 'Chills', 'Dizziness', 'Dyspnoea']"
+JAKAFI,MYELOFIBROSIS,"['Tremor', 'Diarrhoea', 'Pyrexia', 'Chills', 'Fatigue', 'Asthenia']"
+JAKAFI,MYELOFIBROSIS,"['Pyrexia', 'Chills', 'Nausea']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+PICATO,ACTINIC KERATOSIS,"['Application site erythema', 'Application site pain', 'Application site scab', 'Application site swelling', 'Drug administration error']"
+JAKAFI,MYELOFIBROSIS,"['Back pain', 'Pain in extremity']"
+JAKAFI,MYELOFIBROSIS,"['Oral fungal infection', 'Sinusitis', 'Blood count abnormal', 'Malaise']"
+JAKAFI,MYELOFIBROSIS,['Nasopharyngitis']
+LETAIRIS,PULMONARY HYPERTENSION,['Blood count abnormal']
+LETAIRIS,PULMONARY HYPERTENSION,['Acne']
+LETAIRIS,PULMONARY HYPERTENSION,['Skin lesion']
+JAKAFI,MYELOFIBROSIS,"['Musculoskeletal discomfort', 'Headache', 'Mobility decreased']"
+PICATO,ACTINIC KERATOSIS,"['Drug administered at inappropriate site', 'No adverse event']"
+PRADAXA,ATRIAL FIBRILLATION,"['Swelling', 'Arthralgia', 'Joint swelling', 'Weight increased']"
+LETAIRIS,PULMONARY HYPERTENSION,['Heart rate increased']
+JAKAFI,MYELOFIBROSIS,['Tooth infection']
+JAKAFI,MYELOFIBROSIS,['Bone pain']
+JAKAFI,MYELOFIBROSIS,"['Oedema peripheral', 'Drug ineffective']"
+JAKAFI,MYELOFIBROSIS,['Dry eye']
+JAKAFI,MYELOFIBROSIS,['Drug dispensing error']
+LETAIRIS,PULMONARY HYPERTENSION,['Oedema']
+JAKAFI,MYELOFIBROSIS,['Abdominal pain upper']
+JAKAFI,MYELOFIBROSIS,['International normalised ratio increased']
+JAKAFI,MYELOFIBROSIS,"['Blood creatinine increased', 'Renal failure']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Infusion site infection']
+JAKAFI,POLYCYTHAEMIA VERA,['Blood count abnormal']
+JAKAFI,POLYCYTHAEMIA VERA,"['Abdominal pain upper', 'Diarrhoea', 'Back pain', 'Headache']"
+LETAIRIS,PULMONARY HYPERTENSION,['Accident']
+JAKAFI,MYELOFIBROSIS,['Ear infection']
+JAKAFI,MYELOFIBROSIS,"['Haemoglobin decreased', 'Diarrhoea']"
+JAKAFI,MYELOFIBROSIS,['Bone pain']
+HUMIRA,RHEUMATOID ARTHRITIS,['Myocardial infarction']
+LETAIRIS,PULMONARY HYPERTENSION,"['Weight decreased', 'Oedema']"
+LETAIRIS,HEART DISEASE CONGENITAL,"['Headache', 'Unevaluable event', 'Fatigue', 'Nasal congestion']"
+JAKAFI,MYELOFIBROSIS,['Abnormal dreams']
+JAKAFI,MYELOFIBROSIS,['Platelet count decreased']
+JAKAFI,MYELOFIBROSIS,['Platelet count decreased']
+PRADAXA,ATRIAL FIBRILLATION,['Foreign body']
+JAKAFI,MYELOFIBROSIS,"['Blood count abnormal', 'Pyrexia', 'Infection']"
+JAKAFI,MYELOFIBROSIS,"['Contusion', 'Respiratory tract infection', 'Platelet count decreased']"
+LETAIRIS,PULMONARY HYPERTENSION,"['White blood cell count decreased', 'Red blood cell count decreased']"
+LETAIRIS,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,['Tremor']
+JAKAFI,MYELOFIBROSIS,['Fatigue']
+JAKAFI,MYELOFIBROSIS,"['Gastrooesophageal reflux disease', 'Abdominal discomfort', 'Haemorrhage subcutaneous', 'Contusion']"
+JAKAFI,MYELOFIBROSIS,['Muscle spasms']
+LETAIRIS,SCLERODERMA,['Oedema']
+JAKAFI,MYELOFIBROSIS,"['Haemoglobin decreased', 'Gastroenteritis viral', 'Nausea', 'Vomiting', 'Weight decreased', 'Gout', 'Mucosal inflammation', 'Oral pain', 'Oropharyngeal plaque']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Oedema', 'Oedema peripheral', 'Dizziness']"
+JAKAFI,MYELOFIBROSIS,"['Fatigue', 'Headache', 'Haemoglobin decreased', 'Platelet count decreased']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Diarrhoea']
+JAKAFI,MYELOFIBROSIS,['Blood potassium increased']
+CORICIDIN HBP COLD AND FLU,NASOPHARYNGITIS,"['Euphoric mood', 'Decreased appetite', 'Malaise']"
+JAKAFI,MYELOFIBROSIS,"['Fatigue', 'Dizziness']"
+JAKAFI,MYELOFIBROSIS,"['Night sweats', 'Burning sensation']"
+JAKAFI,MYELOFIBROSIS,"['Pollakiuria', 'Abdominal discomfort']"
+PICATO,ACTINIC KERATOSIS,"['Application site vesicles', 'Application site pain']"
+JAKAFI,MYELOFIBROSIS,['Transfusion']
+JAKAFI,MYELOFIBROSIS,['Wound haemorrhage']
+JAKAFI,MYELOFIBROSIS,['Rash']
+JAKAFI,MYELOFIBROSIS,"['Muscular weakness', 'Asthenia', 'Haemoglobin decreased']"
+JAKAFI,MYELOFIBROSIS,"['Nasopharyngitis', 'Sinus congestion']"
+JAKAFI,MYELOFIBROSIS,['Wrong technique in drug usage process']
+JAKAFI,MYELOFIBROSIS,['Rash']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Catheter site pruritus', 'Catheter site erythema']"
+HUMIRA,RHEUMATOID ARTHRITIS,"['Foot deformity', 'Foot deformity', 'Foot fracture', 'Foot fracture', 'Arthralgia', 'Pain in extremity', 'Pain', 'Pain', 'Product quality issue', 'Rheumatoid arthritis']"
+ACLASTA,OSTEOPOROSIS,"['Death', 'Oesophageal carcinoma', 'Varicella', 'Hypersensitivity']"
+JAKAFI,MYELOFIBROSIS,"['Muscular weakness', 'Haemoglobin decreased']"
+JAKAFI,MYELOFIBROSIS,"['Skin reaction', 'Anaemia']"
+LETAIRIS,SCLERODERMA,['Dyspnoea']
+JAKAFI,MYELOFIBROSIS,"['Anaemia', 'Platelet count decreased', 'Muscular weakness', 'Fatigue']"
+JAKAFI,MYELOFIBROSIS,"['Dyspnoea', 'Asthenia', 'Platelet count decreased', 'Dizziness']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Respiratory tract congestion', 'Nasal congestion']"
+JAKAFI,MYELOFIBROSIS,"['Abdominal pain', 'Inflammation', 'Gastrooesophageal reflux disease', 'Dyspepsia', 'Platelet count decreased']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Right ventricular failure', 'Oedema', 'Dysphemia', 'Paraesthesia', 'Unevaluable event', 'Fall', 'Loss of consciousness', 'Dizziness']"
+JAKAFI,MYELOFIBROSIS,"['Hypoaesthesia', 'Paraesthesia', 'Visual impairment']"
+JAKAFI,MYELOFIBROSIS,"['Paraesthesia', 'Pain in extremity', 'Headache']"
+AFINITOR,BREAST CANCER,['Death']
+JAKAFI,MYELOFIBROSIS,['Pain in extremity']
+JAKAFI,MYELOFIBROSIS,"['Platelet count decreased', 'Wrong technique in drug usage process']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Device malfunction', 'Device occlusion']"
+JAKAFI,MYELOFIBROSIS,"['Bone pain', 'Insomnia']"
+PLAN B ONE-STEP,POST COITAL CONTRACEPTION,"['Secretion discharge', 'Menstruation irregular', 'Pelvic pain']"
+PARAGARD 380A,CONTRACEPTION,['Device breakage']
+JAKAFI,MYELOFIBROSIS,"['Platelet count decreased', 'Wrong technique in drug usage process']"
+JAKAFI,MYELOFIBROSIS,['Eye infection']
+JAKAFI,MYELOFIBROSIS,"['Flatulence', 'Bowel movement irregularity']"
+JAKAFI,MYELOFIBROSIS,"['Nasopharyngitis', 'Nasal congestion', 'Rhinorrhoea', 'Cough']"
+JAKAFI,MYELOFIBROSIS,"['Vomiting', 'Dizziness', 'Asthenia']"
+JAKAFI,POLYCYTHAEMIA VERA,"['Abdominal discomfort', 'Platelet count decreased']"
+JAKAFI,MYELOFIBROSIS,"['Pain in extremity', 'Dyspnoea', 'Asthenia', 'Haemoglobin decreased']"
+PICATO,ACTINIC KERATOSIS,"['Application site erythema', 'Application site pain', 'Application site swelling', 'Application site vesicles', 'Drug administered at inappropriate site', 'Incorrect drug administration duration']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Peripheral swelling', 'Headache', 'Gastric dilatation', 'Chest pain']"
+JAKAFI,MYELOFIBROSIS,"['Oedema', 'Fatigue']"
+JAKAFI,MYELOFIBROSIS,"['Headache', 'Dry mouth']"
+JAKAFI,MYELOFIBROSIS,['Oropharyngeal pain']
+JAKAFI,MYELOFIBROSIS,"['Dry eye', 'Cataract']"
+JAKAFI,MYELOFIBROSIS,['Abdominal distension']
+JAKAFI,MYELOFIBROSIS,"['Nasopharyngitis', 'Respiratory tract congestion', 'Viral infection']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Rash pruritic', 'Oedema', 'Nasal congestion']"
+JAKAFI,MYELOFIBROSIS,"['Bone pain', 'Haemoglobin decreased']"
+LETAIRIS,HEART DISEASE CONGENITAL,['Nasal congestion']
+LETAIRIS,PULMONARY HYPERTENSION,['Dyspnoea']
+JAKAFI,MYELOFIBROSIS,"['Joint swelling', 'Contusion', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,"['Abdominal discomfort', 'Nausea']"
+TRACLEER,PULMONARY HYPERTENSION,['Hypertension']
+JAKAFI,MYELOFIBROSIS,['Chest pain']
+PARAGARD 380A,CONTRACEPTION,['Device expulsion']
+HUMIRA,RHEUMATOID ARTHRITIS,"['Meniscus injury', 'Surgery', 'Surgery', 'Prostatectomy', 'Injection site pain', 'Fear', 'Incorrect dose administered', 'Incorrect dose administered', 'Incorrect dose administered', 'Incorrect dose administered', 'Nervousness', 'Wrong technique in drug usage process', 'Arthralgia', 'Musculoskeletal pain', 'Pain', 'Wrong technique in drug usage process', 'Wrong technique in drug usage process', 'Wrong technique in drug usage process', 'Wrong technique in drug usage process', 'Device issue', 'Device issue', 'Device issue', 'Wrong technique in drug usage process', 'Incorrect dose administered', 'Device issue', 'Injection site pain']"
+JAKAFI,MYELOFIBROSIS,"['Vertigo', 'Nausea']"
+JAKAFI,MYELOFIBROSIS,['Weight decreased']
+JAKAFI,MYELOFIBROSIS,['Asthenia']
+JAKAFI,MYELOFIBROSIS,"['Dyspnoea exertional', 'Feeling abnormal', 'Asthenia', 'Platelet count decreased', 'Haemoglobin decreased', 'Anaemia', 'Haematocrit decreased', 'Dizziness']"
+JAKAFI,MYELOFIBROSIS,"['No therapeutic response', 'Incorrect dose administered']"
+JAKAFI,MYELOFIBROSIS,['Fatigue']
+JAKAFI,MYELOFIBROSIS,"['Headache', 'Diarrhoea']"
+JAKAFI,MYELOFIBROSIS,['Platelet count decreased']
+JAKAFI,MYELOFIBROSIS,"['Chills', 'Dry eye', 'Bone pain', 'Headache', 'Constipation', 'Diarrhoea']"
+JAKAFI,MYELOFIBROSIS,"['Feeling abnormal', 'Decreased activity', 'Contusion']"
+JAKAFI,MYELOFIBROSIS,"['Tooth loss', 'Somnolence']"
+JAKAFI,MYELOFIBROSIS,['Diarrhoea']
+JAKAFI,MYELOFIBROSIS,"['Confusional state', 'Arthralgia', 'Accidental overdose']"
+LETAIRIS,PULMONARY HYPERTENSION,['Condition aggravated']
+JAKAFI,MYELOFIBROSIS,['Wound']
+JAKAFI,MYELOFIBROSIS,"['Somnolence', 'Eye pain', 'Dyspnoea', 'Anaemia', 'Dizziness']"
+JAKAFI,MYELOFIBROSIS,"['Bronchitis', 'Platelet count decreased']"
+AUBAGIO,MULTIPLE SCLEROSIS,"['Liver disorder', 'Skin burning sensation', 'Fatigue', 'Malaise']"
+JAKAFI,MYELOFIBROSIS,['Transfusion']
+JAKAFI,MYELOFIBROSIS,['Blood uric acid increased']
+JAKAFI,MYELOFIBROSIS,"['Haematochezia', 'Abdominal pain upper', 'Haemorrhoids', 'Local swelling', 'Wound']"
+LETAIRIS,COR PULMONALE CHRONIC,['Nasopharyngitis']
+JAKAFI,MYELOFIBROSIS,['Stomatitis']
+JAKAFI,MYELOFIBROSIS,['Ulcer']
+LETAIRIS,PULMONARY HYPERTENSION,['Hepatic enzyme increased']
+TRACLEER,PULMONARY ARTERIAL HYPERTENSION,['Death']
+JAKAFI,MYELOFIBROSIS,"['Oral herpes', 'Sinusitis']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Type 2 diabetes mellitus', 'Gait disturbance', 'Hypoaesthesia', 'Hypersomnia', 'Feeling abnormal', 'Laboratory test abnormal', 'Unevaluable event', 'Fatigue']"
+JAKAFI,MYELOFIBROSIS,"['Asthenia', 'Dizziness']"
+JAKAFI,MYELOFIBROSIS,"['Muscular weakness', 'Faecal incontinence', 'Wrong technique in drug usage process', 'Drug interaction']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Nasal congestion']
+LETAIRIS,COR PULMONALE CHRONIC,['Nasal congestion']
+JAKAFI,MYELOFIBROSIS,['Upper respiratory tract infection']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Nightmare']
+JAKAFI,MYELOFIBROSIS,"['Fatigue', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,['Haemoglobin decreased']
+JAKAFI,MYELODYSPLASTIC SYNDROME,['Haemoglobin decreased']
+JAKAFI,MYELOFIBROSIS,['Laboratory test abnormal']
+LETAIRIS,PULMONARY HYPERTENSION,"['Decreased appetite', 'Diarrhoea', 'Vomiting']"
+JAKAFI,MYELOPROLIFERATIVE DISORDER,['Alopecia']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Fluid retention']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Bronchitis', 'Ear infection', 'Respiratory disorder']"
+JAKAFI,MYELOFIBROSIS,"['Fall', 'Contusion']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Gastrointestinal haemorrhage', 'Haemoglobin decreased', 'Tachycardia']"
+JAKAFI,MYELOFIBROSIS,"['Arthralgia', 'Pain in extremity', 'Abdominal pain']"
+JAKAFI,MYELOFIBROSIS,"['Platelet count decreased', 'Blood count abnormal']"
+JAKAFI,ESSENTIAL THROMBOCYTHAEMIA,['Treatment noncompliance']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Oedema']
+LETAIRIS,PULMONARY HYPERTENSION,['Dyspnoea']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Dizziness', 'Hypotension', 'Headache']"
+JAKAFI,MYELOFIBROSIS,"['Hypoaesthesia', 'Peripheral vascular disorder']"
+JAKAFI,MYELOFIBROSIS,"['Nausea', 'Headache']"
+LETAIRIS,SCLERODERMA,['Weight increased']
+LETAIRIS,PULMONARY HYPERTENSION,['Feeling hot']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Halo vision', 'Decreased appetite', 'Visual impairment', 'Tremor', 'Activities of daily living impaired', 'Peripheral swelling']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Malaise', 'Anaemia', 'Nervousness', 'Fatigue', 'Anxiety']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Hypoaesthesia', 'Dyspnoea', 'Hyperhidrosis']"
+JAKAFI,MYELOFIBROSIS,"['Fatigue', 'Nausea', 'Muscle spasms', 'Burning sensation']"
+JAKAFI,MYELOFIBROSIS,['Haemoglobin decreased']
+JAKAFI,MYELOFIBROSIS,"['Arthralgia', 'Diarrhoea', 'Abdominal pain']"
+JAKAFI,MYELOFIBROSIS,['Rash']
+JAKAFI,MYELOFIBROSIS,"['Platelet count decreased', 'Blood count abnormal']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Fatigue', 'Dyspnoea']"
+JAKAFI,MYELOFIBROSIS,"['Malaise', 'Pain', 'Asthenia', 'Adverse drug reaction', 'Headache']"
+JAKAFI,MYELOFIBROSIS,['Spleen disorder']
+JAKAFI,MYELOFIBROSIS,"['Balance disorder', 'Dizziness']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Peripheral swelling']
+JAKAFI,MYELOFIBROSIS,"['Blood creatinine increased', 'Fatigue', 'Haemoglobin decreased', 'Haematocrit decreased', 'Red blood cell count decreased', 'Decreased appetite', 'Blast cell count increased']"
+JAKAFI,MYELOFIBROSIS,"['Malaise', 'Laboratory test abnormal', 'Dizziness']"
+JAKAFI,POLYCYTHAEMIA VERA,"['Muscle spasms', 'Urinary tract infection']"
+LETAIRIS,PULMONARY HYPERTENSION,['Fluid retention']
+JAKAFI,MYELOFIBROSIS,['Platelet count decreased']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Rash']
+JAKAFI,MYELOFIBROSIS,"['Haemoglobin decreased', 'Dizziness', 'Fall']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Fatigue', 'Peripheral swelling', 'Dyspnoea']"
+JAKAFI,MYELOFIBROSIS,"['Haemoglobin decreased', 'Musculoskeletal pain', 'Pain in extremity']"
+JAKAFI,MYELOFIBROSIS,"['Pyrexia', 'Back pain', 'Pain in extremity']"
+JAKAFI,POLYCYTHAEMIA VERA,"['Haematocrit decreased', 'White blood cell count increased', 'Platelet count increased', 'Activities of daily living impaired']"
+JAKAFI,MYELOFIBROSIS,['Paraesthesia']
+JAKAFI,MYELOFIBROSIS,"['Dyspnoea', 'Diarrhoea', 'Weight increased']"
+JAKAFI,MYELOFIBROSIS,['Skin disorder']
+JAKAFI,MYELOFIBROSIS,"['Oral herpes', 'Balance disorder']"
+JAKAFI,MYELOFIBROSIS,"['Abdominal distension', 'Weight increased']"
+JAKAFI,MYELOFIBROSIS,"['Depression', 'Muscle rupture']"
+HUMIRA,CROHN^S DISEASE,['Dental caries']
+LETAIRIS,PULMONARY HYPERTENSION,"['Chest pain', 'Malaise', 'Anxiety']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Nasal congestion', 'Cough']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Malaise', 'Kidney infection', 'Syncope']"
+JAKAFI,MYELOFIBROSIS,['Hypertension']
+JAKAFI,MYELOFIBROSIS,"['Fall', 'Neck injury']"
+LETAIRIS,PULMONARY HYPERTENSION,['Rash pruritic']
+JAKAFI,MYELOFIBROSIS,"['Night sweats', 'Decreased appetite']"
+JAKAFI,BLOOD DISORDER,['Blood count abnormal']
+LETAIRIS,PULMONARY HYPERTENSION,"['Ligament sprain', 'Muscle spasms']"
+JAKAFI,MYELOFIBROSIS,"['Insomnia', 'Abnormal dreams']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Swelling']
+JAKAFI,MYELOFIBROSIS,"['Oral fungal infection', 'Oropharyngeal pain']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Rash generalised']
+JAKAFI,MYELOFIBROSIS,['Adverse reaction']
+JAKAFI,MYELOFIBROSIS,"['Asthenia', 'Dyspnoea', 'Decreased appetite', 'Weight decreased']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Nasal congestion']
+JAKAFI,POLYCYTHAEMIA VERA,['Arthralgia']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Syncope']
+LETAIRIS,SCLERODERMA,"['Cough', 'Oropharyngeal pain']"
+JAKAFI,MYELOFIBROSIS,"['Alopecia', 'Dizziness', 'Asthenia', 'Pain', 'Platelet count decreased']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Sinusitis', 'Dyspnoea', 'Nasal congestion', 'Chills', 'Nasal inflammation', 'Wheezing', 'Dyspnoea']"
+JAKAFI,MYELOFIBROSIS,['Alopecia']
+JAKAFI,MYELOFIBROSIS,"['Diarrhoea', 'Headache', 'Blood count abnormal']"
+JAKAFI,MYELOFIBROSIS,"['Back pain', 'Pain in extremity']"
+HUMIRA,PSORIASIS,"['Dysphagia', 'Hypersensitivity', 'Injection site rash', 'Rash generalised']"
+JAKAFI,MYELOFIBROSIS,"['Eye infection', 'Oropharyngeal pain', 'Weight increased']"
+LETAIRIS,PULMONARY HYPERTENSION,['Productive cough']
+JAKAFI,MYELOFIBROSIS,"['Platelet count decreased', 'Haemoglobin decreased', 'Food poisoning', 'Malaise']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Chest pain', 'Cough']"
+JAKAFI,MYELOFIBROSIS,"['Liver tenderness', 'Blood triglycerides increased', 'Thrombocytopenia']"
+JAKAFI,MYELOFIBROSIS,['Nasopharyngitis']
+JAKAFI,MYELOFIBROSIS,"['Gastrointestinal haemorrhage', 'Haematochezia']"
+JAKAFI,MYELOFIBROSIS,"['Platelet count decreased', 'Wrong technique in drug usage process']"
+JAKAFI,MYELOFIBROSIS,"['Migraine', 'Pyrexia']"
+LETAIRIS,PULMONARY HYPERTENSION,['Headache']
+JAKAFI,MYELOFIBROSIS,"['Dyspnoea', 'Flatulence', 'Fatigue', 'Platelet count decreased']"
+JAKAFI,MYELOFIBROSIS,"['Respiratory tract infection', 'Sinusitis', 'Red blood cell count decreased', 'Anaemia', 'Thrombocytopenia']"
+LETAIRIS,CONNECTIVE TISSUE DISORDER,"['Chest pain', 'Malaise']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Malaise', 'Systemic lupus erythematosus']"
+JAKAFI,MYELOFIBROSIS,"['Pancytopenia', 'Contusion', 'Platelet count decreased']"
+JAKAFI,MYELOFIBROSIS,['Musculoskeletal chest pain']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Rash']
+LETAIRIS,PULMONARY HYPERTENSION,['Cough']
+LETAIRIS,PULMONARY HYPERTENSION,['Drug ineffective']
+JAKAFI,MYELOFIBROSIS,['Osteoarthritis']
+JAKAFI,MYELOFIBROSIS,"['Epistaxis', 'Splenomegaly', 'Night sweats', 'Decreased appetite', 'Musculoskeletal pain', 'Pain in extremity', 'Cough', 'Platelet count abnormal', 'Platelet count decreased']"
+JAKAFI,MYELOFIBROSIS,"['Fatigue', 'Anaemia']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Peripheral swelling']
+LETAIRIS,PULMONARY HYPERTENSION,['Peripheral swelling']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Sneezing', 'Headache', 'Rhinorrhoea']"
+LETAIRIS,PULMONARY HYPERTENSION,['Incorrect dose administered']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Depression', 'Dyspnoea']"
+JAKAFI,MYELOFIBROSIS,"['Dyspnoea', 'Fatigue', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,"['Nausea', 'Bone pain', 'Fatigue']"
+JAKAFI,MYELOFIBROSIS,['Abdominal pain']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Seasonal allergy']
+LETAIRIS,SCLERODERMA,['Epistaxis']
+JAKAFI,MYELOFIBROSIS,"['Anaemia', 'Hypotension', 'Accidental overdose', 'Nausea', 'Vomiting']"
+JAKAFI,MYELOFIBROSIS,"['Eye infection', 'Rosacea']"
+JAKAFI,MYELOFIBROSIS,"['Influenza', 'Malaise', 'Treatment noncompliance', 'Drug dose omission']"
+JAKAFI,MYELOFIBROSIS,['Skin lesion']
+JAKAFI,MYELOFIBROSIS,['Pain in extremity']
+JAKAFI,MYELOFIBROSIS,['Fluid retention']
+LETAIRIS,PULMONARY HYPERTENSION,['Influenza']
+JAKAFI,MYELOFIBROSIS,"['Pain of skin', 'Platelet count decreased']"
+JAKAFI,MYELOFIBROSIS,"['Nausea', 'Hypersomnia', 'Blood count abnormal', 'Medication error']"
+ACLASTA,OSTEOPOROSIS,['Aortic stenosis']
+JAKAFI,MYELOFIBROSIS,['Treatment noncompliance']
+JAKAFI,MYELOFIBROSIS,"['Gastrooesophageal reflux disease', 'Blood count abnormal']"
+JAKAFI,MYELOFIBROSIS,"['Platelet count decreased', 'Haemoglobin decreased']"
+JAKAFI,MYELOFIBROSIS,['Oedema']
+JAKAFI,MYELOFIBROSIS,"['Anaemia', 'Diarrhoea', 'Blood count abnormal', 'Drug ineffective']"
+JAKAFI,MYELOFIBROSIS,"['Malaise', 'Drug ineffective']"
+JAKAFI,MYELOFIBROSIS,"['Inflammation', 'Weight increased']"
+JAKAFI,POLYCYTHAEMIA VERA,"['Asthenia', 'Weight increased']"
+JAKAFI,MYELOFIBROSIS,"['Fatigue', 'Weight increased', 'Haemoglobin decreased']"
+JAKAFI,MYELOFIBROSIS,"['Splenomegaly', 'Drug ineffective', 'Drug prescribing error']"
+JAKAFI,MYELOFIBROSIS,['Disease progression']
+JAKAFI,MYELOFIBROSIS,"['Tooth infection', 'Toothache']"
+JAKAFI,MYELOFIBROSIS,"['Anaemia', 'Medication error']"
+JAKAFI,POLYCYTHAEMIA VERA,['Adverse event']
+JAKAFI,MYELOFIBROSIS,"['Platelet count decreased', 'Blood glucose decreased', 'Asthenia']"
+JAKAFI,MYELOFIBROSIS,['Blood bilirubin increased']
+JAKAFI,MYELOFIBROSIS,"['Arthralgia', 'Cardiovascular disorder']"
+JAKAFI,MYELOFIBROSIS,"['Bone pain', 'Anaemia']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Lethargy', 'Dizziness', 'Nausea', 'Dyspnoea']"
+JAKAFI,MYELOFIBROSIS,"['Fatigue', 'Diarrhoea', 'Platelet count decreased']"
+JAKAFI,SPLENOMEGALY,"['Haemoglobin decreased', 'Disease progression', 'Platelet count decreased', 'Abdominal pain', 'Dyspnoea']"
+JAKAFI,MYELOFIBROSIS,"['Pain in extremity', 'Muscle spasms', 'Abdominal pain', 'Diarrhoea']"
+JAKAFI,MYELOFIBROSIS,"['Rash pruritic', 'Oedema peripheral', 'Abdominal distension', 'Condition aggravated', 'Blood iron decreased']"
+JAKAFI,MYELOFIBROSIS,['Arthralgia']
+JAKAFI,MYELOFIBROSIS,"['Tinnitus', 'Contusion']"
+JAKAFI,MYELOFIBROSIS,"['Pain in extremity', 'White blood cell count decreased', 'Platelet count decreased']"
+JAKAFI,MYELOFIBROSIS,"['Haemoglobin decreased', 'Haematocrit decreased']"
+JAKAFI,MYELOFIBROSIS,"['Diarrhoea', 'Decreased appetite', 'Nausea', 'Vomiting', 'Headache']"
+JAKAFI,MYELOFIBROSIS,"['Blood creatinine increased', 'Blood count abnormal', 'Hypoaesthesia']"
+LETAIRIS,PULMONARY HYPERTENSION,"['Allergic respiratory symptom', 'Hypotension', 'Peripheral swelling', 'Asthenia']"
+JAKAFI,MYELOFIBROSIS,"['Hepatic pain', 'Liver function test abnormal', 'Blood test abnormal', 'Haemoglobin decreased', 'Platelet count decreased', 'Drug ineffective']"
+JAKAFI,MYELOFIBROSIS,"['Anaemia', 'Balance disorder', 'Dyspnoea', 'Pain in extremity', 'Pain']"
+JAKAFI,MYELOFIBROSIS,['Anaemia']
+JAKAFI,MYELOFIBROSIS,"['Dyspnoea', 'Malaise', 'Nausea', 'Influenza like illness', 'Chills', 'Pain', 'Hyperhidrosis', 'Pyrexia']"
+JAKAFI,MYELOFIBROSIS,"['Arthralgia', 'Depression', 'Drug dose omission', 'Bone pain', 'Arthritis', 'Mood swings', 'Confusional state']"
+JAKAFI,MYELOFIBROSIS,"['Oral pain', 'Pyrexia']"
+PARAGARD 380A,CONTRACEPTION,['Device expulsion']
+JAKAFI,MYELOFIBROSIS,['Night sweats']
+JAKAFI,MYELODYSPLASTIC SYNDROME,"['Diarrhoea', 'Dizziness']"
+JAKAFI,MYELOFIBROSIS,['Haemoglobin decreased']
+JAKAFI,MYELOFIBROSIS,['Epistaxis']
+JAKAFI,MYELOFIBROSIS,"['Anaemia', 'Thrombocytopenia', 'Splenomegaly', 'Abdominal discomfort', 'Palpitations', 'Gingival pain', 'Fatigue', 'Oedema peripheral', 'Paraesthesia', 'Confusional state', 'Feeling abnormal', 'Asthenia', 'Nervousness']"
+JAKAFI,POLYCYTHAEMIA VERA,['Constipation']
+JAKAFI,MYELOFIBROSIS,"['Blood potassium increased', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,"['Haemoglobin decreased', 'Blood count abnormal']"
+JAKAFI,MYELOFIBROSIS,"['Pain in extremity', 'Arthralgia']"
+JAKAFI,MYELOFIBROSIS,"['Asthenia', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,"['Asthenia', 'Blood count abnormal']"
+SPIRIVA,EMPHYSEMA,['Incorrect route of drug administration']
+JAKAFI,MYELOFIBROSIS,['Dyspnoea']
+JAKAFI,MYELOFIBROSIS,"['Haemoglobin decreased', 'Red blood cell count decreased']"
+JAKAFI,MYELOFIBROSIS,"['Abdominal distension', 'Fatigue', 'Memory impairment', 'Balance disorder']"
+JAKAFI,MYELOFIBROSIS,"['Splenomegaly', 'Drug dose omission']"
+JAKAFI,MYELOFIBROSIS,"['Abdominal pain', 'Dizziness']"
+JAKAFI,MYELOFIBROSIS,['Back pain']
+JAKAFI,MYELOFIBROSIS,"['Thrombocytopenia', 'Anaemia', 'Medication error']"
+JAKAFI,MYELOFIBROSIS,"['Constipation', 'Fatigue', 'Asthenia']"
+JAKAFI,MYELOFIBROSIS,['Adverse drug reaction']
+JAKAFI,MYELOFIBROSIS,"['Nausea', 'Fall', 'Muscular weakness', 'Joint injury', 'Dizziness']"
+JAKAFI,MYELOFIBROSIS,"['Weight decreased', 'Night sweats', 'Hot flush', 'Feeling cold', 'Asthenia', 'Headache']"
+JAKAFI,MYELOFIBROSIS,['Transfusion']
+JAKAFI,MYELOFIBROSIS,"['Splenomegaly', 'Dizziness', 'White blood cell count decreased', 'Red blood cell count decreased']"
+JAKAFI,MYELOFIBROSIS,"['Platelet count decreased', 'Leukocytosis']"
+JAKAFI,MYELOFIBROSIS,"['Rash', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,['Treatment noncompliance']
+JAKAFI,MYELOFIBROSIS,"['Drug dose omission', 'Treatment noncompliance']"
+JAKAFI,MYELOFIBROSIS,"['Haemoglobin decreased', 'Urinary tract infection']"
+JAKAFI,POLYCYTHAEMIA VERA,"['Tremor', 'Abdominal pain', 'Blood count abnormal']"
+JAKAFI,MYELOFIBROSIS,['Diarrhoea']
+LETAIRIS,PULMONARY HYPERTENSION,['Diarrhoea']
+JAKAFI,MYELOFIBROSIS,['Cough']
+JAKAFI,MYELOFIBROSIS,"['Ligament sprain', 'Fall', 'Arthralgia', 'Back pain', 'Hypothyroidism', 'Hypertension', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,"['Anaemia', 'Blood count abnormal']"
+JAKAFI,MYELOFIBROSIS,['Diarrhoea']
+JAKAFI,MYELOFIBROSIS,"['Diarrhoea', 'Contusion']"
+JAKAFI,MYELOFIBROSIS,['Transfusion']
+JAKAFI,MYELOFIBROSIS,"['Pyrexia', 'Platelet count decreased']"
+JAKAFI,MYELOFIBROSIS,"['Platelet count decreased', 'Blood pressure increased', 'Palpitations', 'Feeling abnormal', 'Contusion', 'Red blood cell count decreased', 'Haemoglobin decreased']"
+JAKAFI,MYELOFIBROSIS,"['Adverse drug reaction', 'Drug ineffective']"
+JAKAFI,SPLENOMEGALY,['Constipation']
+JAKAFI,MYELOFIBROSIS,"['Anaemia', 'Weight increased', 'Thrombocytopenia', 'Somnolence', 'Dyspnoea exertional', 'Fatigue']"
+JAKAFI,MYELOFIBROSIS,"['Fatigue', 'Blood count abnormal']"
+JAKAFI,MYELOFIBROSIS,"['Decreased appetite', 'Nausea', 'Splenomegaly', 'Diarrhoea', 'Drug dose omission', 'Malaise']"
+JAKAFI,MYELOFIBROSIS,"['Fall', 'Joint injury', 'Eye infection staphylococcal']"
+JAKAFI,MYELOFIBROSIS,['Platelet count decreased']
+JAKAFI,MYELOFIBROSIS,['Pruritus']
+LETAIRIS,PULMONARY HYPERTENSION,"['Middle ear effusion', 'Ear infection', 'Hearing impaired', 'Nasopharyngitis', 'Wheezing']"
+JAKAFI,MYELOFIBROSIS,"['Increased appetite', 'Weight increased', 'Headache']"
+JAKAFI,MYELOFIBROSIS,"['Hyperphagia', 'Insomnia', 'Fatigue', 'Malaise', 'Drug ineffective']"
+JAKAFI,MYELOFIBROSIS,"['Diarrhoea', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,"['Haematocrit decreased', 'Haemoglobin decreased', 'Aspartate aminotransferase increased']"
+JAKAFI,MYELOFIBROSIS,['Blood pressure increased']
+JAKAFI,MYELOFIBROSIS,"['Arthralgia', 'Oropharyngeal pain', 'Rhinorrhoea']"
+JAKAFI,MYELOFIBROSIS,"['Skin lesion', 'Ocular hyperaemia', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,"['Chills', 'Pain', 'Nausea', 'Headache', 'Dizziness', 'Contusion']"
+JAKAFI,MYELOFIBROSIS,"['Gout', 'Flatulence', 'Headache']"
+JAKAFI,MYELOFIBROSIS,"['White blood cell count increased', 'Haemoglobin decreased']"
+JAKAFI,MYELOFIBROSIS,['Musculoskeletal chest pain']
+JAKAFI,MYELOFIBROSIS,"['Blood pressure increased', 'Haemoglobin decreased', 'Weight increased']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Sinusitis']
+JAKAFI,MYELOFIBROSIS,['Pain in extremity']
+JAKAFI,MYELOFIBROSIS,"['Pain', 'Oedema mouth', 'Stomatitis']"
+JAKAFI,MYELOFIBROSIS,"['Platelet count decreased', 'Anaemia', 'Fatigue']"
+JAKAFI,MYELOFIBROSIS,"['Haemorrhage', 'Anaemia', 'Drug effect decreased']"
+JAKAFI,MYELOFIBROSIS,"['Dyspnoea', 'Fatigue', 'Peripheral coldness', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,"['Haemoglobin decreased', 'Platelet count decreased', 'Haematocrit decreased']"
+JAKAFI,MYELOFIBROSIS,['Influenza']
+JAKAFI,MYELOFIBROSIS,['Alopecia']
+JAKAFI,MYELOFIBROSIS,['Drug dose omission']
+JAKAFI,MYELOFIBROSIS,['Condition aggravated']
+JAKAFI,MYELOFIBROSIS,"['Splenomegaly', 'Insomnia']"
+ACLASTA,OSTEOPOROSIS,"['Dementia', 'Blood urea decreased', 'Blood cholesterol increased', 'Blood triglycerides increased', 'Mean cell haemoglobin concentration decreased', 'Neutrophil count increased', 'Monocyte count increased']"
+JAKAFI,MYELOFIBROSIS,"['Platelet count decreased', 'Haemoglobin decreased', 'Haematocrit decreased', 'Activities of daily living impaired', 'Muscular weakness', 'Mood altered', 'Fatigue', 'Malaise', 'Lethargy', 'Haemolysis']"
+JAKAFI,MYELOFIBROSIS,"['Back pain', 'Petechiae', 'Contusion']"
+JAKAFI,MYELOFIBROSIS,"['Increased appetite', 'Blood glucose decreased', 'Blood pressure decreased', 'Salt craving', 'Feeling jittery', 'Splenomegaly', 'Fatigue', 'Weight increased']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Fibromyalgia', 'Arthritis', 'Pain', 'Fatigue']"
+JAKAFI,MYELOFIBROSIS,"['Dizziness', 'Flatulence']"
+JAKAFI,MYELOFIBROSIS,['Musculoskeletal pain']
+JAKAFI,MYELOFIBROSIS,['Iron overload']
+JAKAFI,MYELOFIBROSIS,['Influenza']
+JAKAFI,MYELOFIBROSIS,"['Platelet count decreased', 'Haemoglobin decreased', 'Dizziness']"
+JAKAFI,MYELOFIBROSIS,"['Haemoglobin abnormal', 'Anal haemorrhage']"
+JAKAFI,MYELOPROLIFERATIVE DISORDER,"['Rash', 'Fatigue', 'Pruritus']"
+JAKAFI,MYELOFIBROSIS,['Skin lesion']
+JAKAFI,MYELOFIBROSIS,['Rash papular']
+HUMIRA,CROHN^S DISEASE,"['Rotator cuff syndrome', 'Nasopharyngitis']"
+JAKAFI,MYELOFIBROSIS,"['Fatigue', 'Joint swelling', 'Arthralgia']"
+JAKAFI,MYELOFIBROSIS,"['Diarrhoea', 'Pollakiuria']"
+JAKAFI,MYELOFIBROSIS,"['Nausea', 'Vomiting', 'Somnolence', 'White blood cell count decreased']"
+JAKAFI,SPLENOMEGALY,"['Nausea', 'Decreased appetite', 'Headache', 'Dizziness', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,"['Pyrexia', 'Therapeutic response unexpected']"
+JAKAFI,MYELOFIBROSIS,"['Dyspnoea exertional', 'Anaemia', 'Dizziness', 'Headache']"
+JAKAFI,MYELOFIBROSIS,['Adverse drug reaction']
+JAKAFI,MYELOFIBROSIS,"['Anaemia', 'Fatigue', 'Weight decreased']"
+JAKAFI,MYELOFIBROSIS,"['Splenomegaly', 'Drug effect decreased', 'Treatment failure']"
+JAKAFI,MYELOFIBROSIS,"['Thrombocytopenia', 'Haemoglobin decreased', 'Drug ineffective']"
+JAKAFI,MYELOFIBROSIS,['Skin ulcer']
+JAKAFI,POLYCYTHAEMIA VERA,"['Rash', 'Skin swelling', 'Weight increased']"
+JAKAFI,MYELOFIBROSIS,['Feeling abnormal']
+JAKAFI,MYELOFIBROSIS,['Platelet count decreased']
+JAKAFI,MYELOFIBROSIS,['Platelet count increased']
+JAKAFI,MYELOFIBROSIS,"['Nausea', 'Vomiting']"
+JAKAFI,MYELOFIBROSIS,"['Thrombocytopenia', 'Medication error', 'Fatigue', 'Dyspnoea exertional', 'Insomnia', 'Musculoskeletal pain', 'Rash pruritic', 'Weight increased']"
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Limb discomfort', 'Oedema', 'Local swelling', 'Oedema peripheral', 'Fatigue', 'Dyspnoea']"
+JAKAFI,MYELOFIBROSIS,"['Fatigue', 'Cough', 'Upper respiratory tract congestion', 'Malaise', 'Insomnia', 'Dyspnoea exertional', 'Constipation', 'Anxiety', 'Depression', 'Oedema peripheral', 'Pyrexia', 'Splenomegaly', 'Pain', 'Drug dose omission', 'Decreased appetite', 'Fall', 'Asthenia', 'Dizziness', 'Contusion', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,"['Haemoglobin decreased', 'Platelet count decreased']"
+JAKAFI,MYELOFIBROSIS,['Splenomegaly']
+JAKAFI,MYELOFIBROSIS,"['Malaise', 'Drug dose omission']"
+JAKAFI,MYELOFIBROSIS,['Bone pain']
+LETAIRIS,PULMONARY HYPERTENSION,"['Rhinitis allergic', 'Sinusitis']"
+JAKAFI,MYELOFIBROSIS,"['Malaise', 'Drug dose omission']"
+JAKAFI,MYELOFIBROSIS,"['Vision blurred', 'Bradyphrenia', 'Flatulence', 'Diarrhoea', 'Dizziness']"
+JAKAFI,SPLENOMEGALY,"['Rash', 'Skin irritation']"
+JAKAFI,MYELOFIBROSIS,"['Macular degeneration', 'Increased appetite', 'Weight increased', 'Nerve injury', 'Urinary incontinence', 'Faecal incontinence', 'Diarrhoea', 'Flatulence', 'Nightmare', 'Musculoskeletal pain', 'Pain in extremity', 'Paraesthesia', 'Platelet count decreased', 'Visual impairment', 'Dry eye', 'Vision blurred', 'Carpal tunnel syndrome', 'Synovial cyst']"
+JAKAFI,MYELOFIBROSIS,"['Paraesthesia', 'Asthenia', 'Platelet count decreased', 'Blood count abnormal']"
+JAKAFI,MYELOFIBROSIS,"['Asthenia', 'Pollakiuria', 'Dizziness']"
+JAKAFI,MYELOFIBROSIS,"['Platelet count decreased', 'Drug interaction']"
+LETAIRIS,CONNECTIVE TISSUE DISORDER,"['Oedema peripheral', 'Weight increased']"
+JAKAFI,MYELOFIBROSIS,['Dyspnoea exertional']
+JAKAFI,MYELOFIBROSIS,['Hypothyroidism']
+JAKAFI,MYELOFIBROSIS,['Haemoglobin decreased']
+JAKAFI,MYELOFIBROSIS,"['Pain in extremity', 'Feeling hot']"
+JAKAFI,MYELOFIBROSIS,['Eye disorder']
+JAKAFI,MYELOFIBROSIS,"['Painful respiration', 'Abdominal pain', 'Pain in extremity', 'Pain', 'Blood glucose increased', 'Splenomegaly', 'Anaemia', 'Dizziness', 'Urinary tract infection']"
+JAKAFI,MYELOFIBROSIS,"['Dehydration', 'General physical health deterioration', 'Haemoglobin decreased']"
+JAKAFI,MYELOFIBROSIS,"['Increased appetite', 'Fatigue', 'White blood cell count increased', 'Blood urea increased', 'Red blood cell count decreased', 'Platelet count decreased', 'Weight increased', 'Anaemia']"
+ENBREL,RHEUMATOID ARTHRITIS,"['Emergency care', 'Pulmonary oedema', 'Headache', 'Body temperature increased']"
+HERCEPTIN,BREAST CANCER METASTATIC,"['Drug ineffective', 'Metastases to central nervous system']"
+JAKAFI,MYELOFIBROSIS,"['Platelet count decreased', 'Asthenia', 'Nausea', 'Fatigue', 'Depressed mood', 'Decreased appetite', 'Headache', 'Dizziness']"
+JAKAFI,MYELOFIBROSIS,"['Vomiting', 'Blood glucose increased', 'Fatigue', 'Drug dose omission']"
+JAKAFI,BLOOD DISORDER,['Drug dose omission']
+LETAIRIS,PULMONARY HYPERTENSION,"['Stress', 'Headache']"
+JAKAFI,MYELOFIBROSIS,['Pruritus']
+JAKAFI,MYELOFIBROSIS,"['Pain in extremity', 'Rash macular', 'Fatigue', 'Quality of life decreased', 'Insomnia', 'Bone pain', 'Weight increased']"
+JAKAFI,MYELOFIBROSIS,['Rash pruritic']
+JAKAFI,MYELOFIBROSIS,"['Skin irritation', 'Rash pruritic', 'Burning sensation', 'Fatigue', 'Aspartate aminotransferase increased', 'Alanine aminotransferase increased']"
+NEULASTA,PROPHYLAXIS,['Hospitalisation']
+JAKAFI,MYELOFIBROSIS,"['Diarrhoea', 'Nausea']"
+JAKAFI,MYELOFIBROSIS,"['Hypertension', 'Headache', 'Nasopharyngitis', 'Oropharyngeal pain', 'Conjunctival haemorrhage', 'Therapeutic response unexpected']"
+JAKAFI,MYELOFIBROSIS,"['Fall', 'Dizziness', 'Drug dose omission']"
+JAKAFI,MYELOFIBROSIS,"['Anaemia', 'Disease progression', 'Splenomegaly', 'Lung consolidation', 'Goitre']"
+JAKAFI,MYELOFIBROSIS,['Splenomegaly']
+JAKAFI,MYELOFIBROSIS,"['Platelet count decreased', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,['Somnolence']
+JAKAFI,MYELOFIBROSIS,['Asthenia']
+JAKAFI,MYELOFIBROSIS,"['Fluid retention', 'Nocturia', 'Blood potassium increased', 'Weight increased']"
+JAKAFI,MYELOFIBROSIS,"['Arthralgia', 'Gait disturbance', 'Arthritis']"
+JAKAFI,MYELOFIBROSIS,"['Splenomegaly', 'Fatigue']"
+JAKAFI,MYELOFIBROSIS,"['Diarrhoea', 'Chills', 'Pyrexia', 'Headache']"
+PROLIA,OSTEOPOROSIS POSTMENOPAUSAL,"['Impaired healing', 'Cardiac flutter', 'Chest pain', 'Mobility decreased', 'Rash pruritic', 'Dizziness', 'Pain', 'Rash erythematous', 'Local swelling', 'Feeling hot', 'Nail disorder', 'Alopecia', 'Nausea', 'Vomiting', 'Abdominal distension', 'Gastric disorder', 'Weight decreased', 'Abdominal pain', 'Arthralgia', 'Pruritus', 'Erythema']"
+JAKAFI,MYELOFIBROSIS,"['Abdominal distension', 'Increased appetite', 'Weight increased', 'Arthralgia']"
+JAKAFI,MYELOFIBROSIS,"['Abdominal discomfort', 'Drug dose omission']"
+JAKAFI,POLYCYTHAEMIA VERA,"['Memory impairment', 'Photophobia', 'Fatigue', 'Dysstasia', 'Mental disorder', 'White blood cell count increased', 'Oropharyngeal pain', 'Cough', 'Pyrexia', 'Rhinorrhoea', 'Apathy', 'Hypersomnia', 'Insomnia', 'Dizziness', 'Headache', 'Drug effect decreased']"
+JAKAFI,MYELOFIBROSIS,"['Splenomegaly', 'Drug effect decreased']"
+JAKAFI,BLOOD DISORDER,"['Epistaxis', 'Unevaluable event']"
+JAKAFI,MYELOFIBROSIS,['White blood cell count decreased']
+JAKAFI,ESSENTIAL THROMBOCYTHAEMIA,"['Diarrhoea', 'Haemoglobin decreased']"
+JAKAFI,MYELOFIBROSIS,['Adverse drug reaction']
+JAKAFI,POLYCYTHAEMIA VERA,"['Malaise', 'Hypersensitivity', 'Night sweats', 'Insomnia']"
+NEULASTA,PROPHYLAXIS,['Hospitalisation']
+JAKAFI,MYELOFIBROSIS,"['Increased appetite', 'Weight increased', 'Headache', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,"['Chest pain', 'Nausea', 'Fatigue', 'Decreased appetite', 'Anaemia', 'Headache', 'Weight decreased']"
+JAKAFI,MYELOFIBROSIS,['Hypertension']
+JAKAFI,MYELOFIBROSIS,"['Rhinorrhoea', 'Insomnia']"
+JAKAFI,MYELOFIBROSIS,['Haemoglobin decreased']
+JAKAFI,MYELOFIBROSIS,"['Headache', 'Hair texture abnormal', 'Alopecia', 'Onychoclasis', 'Insomnia', 'Thrombocytosis', 'Iron deficiency', 'Weight increased']"
+JAKAFI,MYELOFIBROSIS,"['Haemoglobin decreased', 'Diarrhoea']"
+NEULASTA,PROPHYLAXIS,['Investigation']
+JAKAFI,MYELOFIBROSIS,['Blood pressure increased']
+JAKAFI,POLYCYTHAEMIA VERA,"['Abdominal discomfort', 'Dizziness', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,"['Stomatitis', 'Oral discomfort']"
+JAKAFI,MYELOFIBROSIS,"['Diarrhoea', 'Asthenia']"
+JAKAFI,MYELOFIBROSIS,"['Splenomegaly', 'Platelet count decreased']"
+NEULASTA,PROPHYLAXIS,['Investigation']
+JAKAFI,MYELOFIBROSIS,"['Rash', 'Pruritus']"
+JAKAFI,MYELOFIBROSIS,"['Splenomegaly', 'Drug ineffective', 'Disease progression']"
+JAKAFI,MYELOFIBROSIS,['Asthma']
+JAKAFI,MYELOFIBROSIS,"['Pneumonia', 'Haemoglobin decreased', 'Musculoskeletal pain', 'Swelling']"
+JAKAFI,MYELOFIBROSIS,"['Nasopharyngitis', 'Fatigue', 'Memory impairment', 'Cough']"
+JAKAFI,MYELOFIBROSIS,"['Heart rate decreased', 'Increased appetite', 'Platelet count decreased']"
+JAKAFI,MYELOFIBROSIS,"['Muscle spasms', 'Pain in extremity']"
+JAKAFI,MYELOPROLIFERATIVE DISORDER,"['Arthralgia', 'Back pain', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,['Postoperative wound infection']
+NEULASTA,PROPHYLAXIS,['Hospitalisation']
+JAKAFI,MYELOFIBROSIS,['Nasopharyngitis']
+JAKAFI,POLYCYTHAEMIA VERA,['Local swelling']
+JAKAFI,MYELOFIBROSIS,"['Sinus disorder', 'Dizziness']"
+JAKAFI,MYELOFIBROSIS,['Gout']
+JAKAFI,MYELOFIBROSIS,"['Haemoglobin decreased', 'Platelet count decreased']"
+JAKAFI,MYELOFIBROSIS,"['Night sweats', 'Diarrhoea', 'Myalgia', 'Fatigue', 'Nightmare', 'Headache', 'Weight increased']"
+FORTEO,OSTEOPOROSIS,"['Convulsion', 'Urinary tract infection', 'Psychiatric symptom']"
+JAKAFI,MYELOFIBROSIS,"['Anaemia', 'Headache']"
+JAKAFI,MYELOFIBROSIS,['Renal disorder']
+JAKAFI,MYELOFIBROSIS,['Increased appetite']
+JAKAFI,MYELOFIBROSIS,"['Dyspepsia', 'Headache']"
+JAKAFI,MYELOFIBROSIS,['Emergency care examination']
+JAKAFI,MYELOFIBROSIS,"['Malaise', 'Drug ineffective']"
+OXYTROL FOR WOMEN,NOCTURIA,['Drug ineffective']
+JAKAFI,MYELOFIBROSIS,['Pain']
+NEXPLANON,CONTRACEPTION,"['Deep vein thrombosis', 'Device dislocation']"
+JAKAFI,MYELOFIBROSIS,['International normalised ratio increased']
+JAKAFI,MYELOFIBROSIS,"['Breast tenderness', 'Urinary tract infection']"
+JAKAFI,BLOOD DISORDER,['Platelet count abnormal']
+ENBREL,RHEUMATOID ARTHRITIS,"['Hepatic failure', 'Glomerular filtration rate increased']"
+JAKAFI,POLYCYTHAEMIA VERA,['Diarrhoea']
+JAKAFI,MYELOFIBROSIS,"['Fatigue', 'Anaemia', 'Wrong technique in drug usage process']"
+JAKAFI,MYELOFIBROSIS,"['Anaemia', 'Back pain', 'Arthralgia', 'Increased appetite']"
+NEULASTA,PROPHYLAXIS,['Hospitalisation']
+JAKAFI,MYELOFIBROSIS,"['Malaise', 'Haematocrit decreased']"
+JAKAFI,MYELOFIBROSIS,"['Transfusion', 'Local swelling']"
+JAKAFI,MYELOFIBROSIS,"['Musculoskeletal pain', 'Decreased appetite', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,"['Platelet count decreased', 'White blood cell count decreased', 'Red blood cell count decreased', 'Dizziness', 'Haemoglobin decreased', 'Haematocrit decreased']"
+JAKAFI,MYELOFIBROSIS,"['Myalgia', 'Muscle spasms', 'Headache', 'Underdose']"
+JAKAFI,MYELOFIBROSIS,['Ear discomfort']
+JAKAFI,POLYCYTHAEMIA VERA,['Diarrhoea']
+FORTEO,OSTEOPOROSIS,['Plasma cell myeloma']
+JAKAFI,MYELOFIBROSIS,['Asthenia']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,"['Chest discomfort', 'Chest pain', 'Dyspnoea']"
+JAKAFI,MYELOFIBROSIS,['Skin discolouration']
+JAKAFI,MYELOFIBROSIS,"['Lactose intolerance', 'Condition aggravated', 'Muscular weakness', 'Dyspnoea', 'Fatigue', 'Hyperhidrosis', 'Weight increased']"
+JAKAFI,MYELOFIBROSIS,"['Haemoglobin decreased', 'Platelet count decreased', 'White blood cell count decreased', 'Haematocrit decreased']"
+JAKAFI,POLYCYTHAEMIA VERA,"['Cough', 'Nasal congestion', 'Pyrexia', 'Dizziness']"
+JAKAFI,POLYCYTHAEMIA VERA,"['Diarrhoea', 'Platelet count increased', 'Rhinorrhoea', 'Oral pain', 'Sensation of heaviness', 'Insomnia', 'Nail bed disorder', 'Appetite disorder', 'Alopecia', 'Weight increased']"
+JAKAFI,POLYCYTHAEMIA VERA,"['Fatigue', 'Nausea', 'Dizziness']"
+NEULASTA,PROPHYLAXIS,['Transfusion']
+AVASTIN,BREAST CANCER,"['Disease progression', 'Disease progression']"
+JAKAFI,MYELOFIBROSIS,"['Salivary hypersecretion', 'Sinus disorder', 'Urine odour abnormal', 'Headache', 'Platelet count decreased', 'Contusion', 'Blood count abnormal']"
+JAKAFI,MYELOFIBROSIS,['Platelet count abnormal']
+JAKAFI,MYELOFIBROSIS,"['Urticaria', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,['Non-cardiac chest pain']
+JAKAFI,MYELOFIBROSIS,"['Pyrexia', 'Fatigue', 'Neuropathy peripheral', 'Blood count abnormal']"
+NEULASTA,PROPHYLAXIS,['Investigation']
+JAKAFI,MYELOFIBROSIS,"['Alanine aminotransferase increased', 'Aspartate aminotransferase increased', 'Anaemia', 'Thrombocytopenia', 'White blood cell count decreased']"
+JAKAFI,MYELOFIBROSIS,['Blister']
+JAKAFI,MYELOFIBROSIS,"['Blood count abnormal', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,['Tooth infection']
+JAKAFI,MYELOFIBROSIS,"['Hypoaesthesia', 'Anaemia']"
+LETAIRIS,PULMONARY HYPERTENSION,['Pneumonia']
+JAKAFI,MYELOFIBROSIS,"['Nausea', 'Headache']"
+NEULASTA,PROPHYLAXIS,['Investigation']
+JAKAFI,POLYCYTHAEMIA VERA,"['Wheezing', 'Drug dose omission', 'Cough', 'Oropharyngeal pain']"
+JAKAFI,MYELOFIBROSIS,['Dermatitis']
+JAKAFI,POLYCYTHAEMIA VERA,"['Platelet count increased', 'White blood cell count increased']"
+JAKAFI,MYELOFIBROSIS,"['Diarrhoea', 'Rash', 'Hernia', 'Bronchitis', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,"['Pain', 'Chest pain', 'Skin lesion', 'Fatigue', 'Epistaxis', 'Headache', 'Contusion']"
+JAKAFI,MYELOFIBROSIS,['Unevaluable event']
+JAKAFI,MYELOFIBROSIS,"['Blood uric acid increased', 'Wrong technique in drug usage process']"
+JAKAFI,MYELOFIBROSIS,"['Abdominal discomfort', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,"['Blood potassium increased', 'Tongue discolouration', 'Rash papular']"
+JAKAFI,MYELOFIBROSIS,['Red blood cell count decreased']
+JAKAFI,MYELOFIBROSIS,['Hypertension']
+JAKAFI,MYELOFIBROSIS,"['White blood cell count increased', 'Malaise', 'Pyrexia', 'Headache', 'Contusion', 'Dizziness']"
+JAKAFI,MYELOFIBROSIS,"['Increased appetite', 'Diarrhoea', 'Nausea', 'Weight increased']"
+JAKAFI,MYELOFIBROSIS,['Musculoskeletal pain']
+XELODA,COLORECTAL CANCER,['Disease progression']
+JAKAFI,MYELOFIBROSIS,['Fatigue']
+JAKAFI,MYELOFIBROSIS,"['Platelet count decreased', 'Splenomegaly']"
+JAKAFI,MYELOFIBROSIS,"['Parvovirus infection', 'Red blood cell count abnormal', 'Platelet count decreased', 'Haemoglobin decreased']"
+XELODA,BREAST CANCER,['Death']
+JAKAFI,MYELOFIBROSIS,['No adverse event']
+JAKAFI,MYELOFIBROSIS,"['Anaemia', 'Dry mouth', 'Drug ineffective']"
+JAKAFI,MYELOFIBROSIS,['Dyspnoea']
+JAKAFI,MYELOFIBROSIS,"['Blood count abnormal', 'Asthenia', 'Malaise']"
+JAKAFI,MYELOFIBROSIS,"['Anaemia', 'Disease progression', 'Nasopharyngitis']"
+NEULASTA,PROPHYLAXIS,['Investigation']
+JAKAFI,MYELOFIBROSIS,"['Fatigue', 'Dyspnoea', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,['Adverse drug reaction']
+JAKAFI,MYELOFIBROSIS,['Platelet count decreased']
+JAKAFI,MYELOFIBROSIS,"['Fatigue', 'Asthenia', 'Malaise', 'Weight increased']"
+JAKAFI,MYELOFIBROSIS,"['Splenomegaly', 'Drug ineffective']"
+JAKAFI,MYELOFIBROSIS,"['Drug intolerance', 'Disease progression']"
+JAKAFI,MYELOFIBROSIS,"['Vomiting', 'Influenza']"
+JAKAFI,MYELOFIBROSIS,"['Dyspepsia', 'Haemoglobin decreased', 'Asthenia', 'Fatigue']"
+JAKAFI,MYELOFIBROSIS,['Irritable bowel syndrome']
+JAKAFI,MYELOFIBROSIS,"['Dyspnoea', 'Anaemia', 'Platelet count decreased', 'Red blood cell count decreased', 'White blood cell count decreased']"
+ARANESP,ANAEMIA,['Hospitalisation']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Transfusion']
+JAKAFI,MYELOFIBROSIS,"['Back pain', 'Drug administration error']"
+JAKAFI,MYELOFIBROSIS,"['Incorrect dose administered', 'Transfusion']"
+JAKAFI,MYELOFIBROSIS,['Adverse drug reaction']
+PRADAXA,ATRIAL FIBRILLATION,"['Rectal haemorrhage', 'Colitis ischaemic', 'Anaemia', 'Coagulopathy']"
+JAKAFI,MYELOFIBROSIS,"['Alopecia', 'Headache', 'Dizziness']"
+JAKAFI,MYELOFIBROSIS,"['Pain', 'Myalgia', 'Muscle strain']"
+JAKAFI,MYELOFIBROSIS,['Flatulence']
+JAKAFI,MYELOFIBROSIS,['Haemoglobin decreased']
+JAKAFI,MYELOFIBROSIS,"['Nasopharyngitis', 'Rash erythematous', 'Exfoliative rash']"
+JAKAFI,MYELOFIBROSIS,"['Nausea', 'Decreased appetite', 'Weight decreased', 'Vertigo', 'Dizziness']"
+JAKAFI,MYELOFIBROSIS,"['Drug dose omission', 'Transfusion']"
+JAKAFI,MYELOFIBROSIS,['Hospice care']
+JAKAFI,MYELOFIBROSIS,"['Platelet count decreased', 'Telangiectasia', 'Asthenia']"
+JAKAFI,MYELOFIBROSIS,"['Dizziness', 'Fall']"
+JAKAFI,ESSENTIAL THROMBOCYTHAEMIA,['Malaise']
+JAKAFI,MYELOFIBROSIS,"['Flatulence', 'Abdominal pain upper', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,"['Diarrhoea', 'Anaemia']"
+JAKAFI,MYELOFIBROSIS,"['Headache', 'Dizziness', 'Contusion', 'Therapeutic response unexpected']"
+JAKAFI,MYELOFIBROSIS,"['Feeling cold', 'Muscular weakness', 'Epistaxis', 'Burning sensation', 'Feeling hot']"
+JAKAFI,MYELOFIBROSIS,"['General physical condition abnormal', 'Asthenia', 'Tremor']"
+GABAPENTIN,NEURALGIA,"['Tooth loss', 'Gingival pain']"
+COMBIVENT,ASTHMA,"['Paraesthesia', 'Drug ineffective', 'Off label use']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Malaise', 'Musculoskeletal disorder']"
+AVONEX,MULTIPLE SCLEROSIS,"['Drug dose omission', 'Confusional state', 'Feeling abnormal']"
+XARELTO,CEREBROVASCULAR ACCIDENT PROPHYLAXIS,['Haemorrhage intracranial']
+XARELTO,PULMONARY EMBOLISM,['Eye haemorrhage']
+ENBREL,PSORIATIC ARTHROPATHY,['Surgery']
+TYSABRI,MULTIPLE SCLEROSIS,['Multiple sclerosis relapse']
+AVONEX,MULTIPLE SCLEROSIS,"['Hysterectomy', 'Menopausal symptoms', 'Nervousness']"
+XARELTO,CEREBROVASCULAR ACCIDENT PROPHYLAXIS,"['Diarrhoea haemorrhagic', 'Mesenteric artery thrombosis', 'Cardiac ablation', 'Gastrointestinal haemorrhage']"
+TECFIDERA,MULTIPLE SCLEROSIS,['Thrombosis']
+AVONEX,MULTIPLE SCLEROSIS,"['Visual acuity reduced', 'Pain', 'Chills']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Multiple sclerosis relapse', 'General physical health deterioration']"
+XARELTO,PULMONARY EMBOLISM,"['Nephrolithiasis', 'Neuralgia', 'Chest discomfort', 'Vision blurred']"
+AVONEX,MULTIPLE SCLEROSIS,['Haemorrhage']
+CETIRIZINE 10 MG,HYPERSENSITIVITY,"['Drug ineffective', 'Product quality issue']"
+XARELTO,CEREBROVASCULAR ACCIDENT PROPHYLAXIS,['Deep vein thrombosis']
+TYSABRI,MULTIPLE SCLEROSIS,"['Poor quality sleep', 'Neck pain', 'Back pain', 'Pain in extremity', 'Ear infection', 'Fatigue', 'Malaise', 'Nasopharyngitis', 'Lower respiratory tract infection', 'Asthenia']"
+TYSABRI,MULTIPLE SCLEROSIS,['Asthenia']
+TYSABRI,MULTIPLE SCLEROSIS,['Blood glucose increased']
+TYSABRI,MULTIPLE SCLEROSIS,['Coordination abnormal']
+AVONEX,MULTIPLE SCLEROSIS,"['Herpes zoster', 'Malaise']"
+AVASTIN,BREAST CANCER METASTATIC,"['Proteinuria', 'Hypertension', 'Vitreous haemorrhage']"
+REVLIMID,PLASMA CELL MYELOMA,"['Blood calcium increased', 'Blood potassium decreased', 'Anaemia']"
+BETAFERON,MULTIPLE SCLEROSIS,"['Multiple sclerosis', 'Inappropriate schedule of drug administration']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Blindness', 'Fatigue']"
+CETIRIZINE 10 MG,HYPERSENSITIVITY,['Limb injury']
+ENBREL,RHEUMATOID ARTHRITIS,['Thrombophlebitis superficial']
+AVONEX,MULTIPLE SCLEROSIS,"['Gait disturbance', 'Procedural pain']"
+XELODA,COLORECTAL CANCER,"['Intestinal ulcer', 'Diarrhoea']"
+TECFIDERA,MULTIPLE SCLEROSIS,"['Malaise', 'Multiple sclerosis relapse', 'Drug ineffective']"
+BETAFERON,MULTIPLE SCLEROSIS,"['Gait disturbance', 'Injection site erythema', 'Injection site discolouration']"
+AVONEX,MULTIPLE SCLEROSIS,['Oropharyngeal pain']
+AVONEX,MULTIPLE SCLEROSIS,['Injection site bruising']
+ENBREL,PSORIASIS,"['Diverticulitis', 'Hernia']"
+PROLIA,OSTEOPOROSIS,"['Death', 'Chronic obstructive pulmonary disease']"
+BETAFERON,MULTIPLE SCLEROSIS,"['Hemiparesis', 'Vision blurred', 'Hypoaesthesia']"
+ARANESP,ANAEMIA,['Investigation']
+TYSABRI,MULTIPLE SCLEROSIS,['Anaemia']
+TYSABRI,MULTIPLE SCLEROSIS,"['Migraine', 'Headache']"
+NEULASTA,PROPHYLAXIS,['Bone pain']
+AVONEX,MULTIPLE SCLEROSIS,"['Laryngitis', 'Asthma', 'Nasopharyngitis']"
+AVONEX,MULTIPLE SCLEROSIS,['Nervousness']
+CETIRIZINE 10 MG,SEASONAL ALLERGY,['Somnolence']
+TECFIDERA,RELAPSING-REMITTING MULTIPLE SCLEROSIS,"['Hysterectomy', 'Gait disturbance', 'Monoparesis']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Depression', 'Anxiety', 'Spinal disorder', 'Mobility decreased', 'Muscular weakness', 'Hypoaesthesia']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Arthritis', 'Muscular weakness']"
+POMALYST,PLASMA CELL MYELOMA,['Cerebrovascular accident']
+TYSABRI,MULTIPLE SCLEROSIS,"['Osteoporosis', 'Depression', 'Memory impairment', 'Fall', 'Weight decreased', 'Upper limb fracture', 'Head injury', 'Contusion', 'Headache', 'Vomiting']"
+ENBREL,ANKYLOSING SPONDYLITIS,"['Haemoptysis', 'Lung disorder', 'Chest pain', 'Injection site erythema', 'Injection site swelling', 'Injection site pruritus']"
+COPAXONE,MULTIPLE SCLEROSIS,"['Endometrial cancer', 'Injection site erythema', 'Injection site swelling', 'Injection site pain']"
+ENBREL,PSORIASIS,"['Hernia', 'Prostatic disorder']"
+AVONEX,MULTIPLE SCLEROSIS,"['Gastrooesophageal reflux disease', 'Stress', 'Multiple sclerosis relapse', 'Depressed mood']"
+BETAFERON,MULTIPLE SCLEROSIS,"['Lung neoplasm malignant', 'Fatigue', 'Asthenia', 'Dyspnoea', 'Chest pain', 'Dyspnoea']"
+XARELTO,ATRIAL FIBRILLATION,"['Anaemia', 'Gastritis haemorrhagic']"
+AVONEX,MULTIPLE SCLEROSIS,['Underdose']
+XARELTO,CEREBROVASCULAR ACCIDENT PROPHYLAXIS,"['Bedridden', 'Off label use', 'Asthenia', 'Muscular weakness', 'Dyspnoea']"
+TYSABRI,MULTIPLE SCLEROSIS,['Multiple sclerosis relapse']
+TYSABRI,MULTIPLE SCLEROSIS,"['Memory impairment', 'Muscle spasticity', 'Musculoskeletal stiffness', 'Pain in extremity', 'Nasopharyngitis']"
+ENBREL,PSORIASIS,"['Haemorrhage', 'Wound', 'Scab', 'Skin fissures', 'Pain', 'Gait disturbance', 'Fear', 'Arthralgia']"
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+TYSABRI,MULTIPLE SCLEROSIS,['Opportunistic infection']
+OXYTROL FOR WOMEN,URINARY INCONTINENCE,['Drug ineffective']
+AVONEX,MULTIPLE SCLEROSIS,"['Diabetic coma', 'Hypertension', 'Confusional state']"
+AVONEX,MULTIPLE SCLEROSIS,"['Cognitive disorder', 'Central nervous system lesion', 'Frustration']"
+TYSABRI,MULTIPLE SCLEROSIS,['Memory impairment']
+ARANESP,MYELODYSPLASTIC SYNDROME,"['Blood urine present', 'Investigation']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Stress', 'Multiple sclerosis relapse']"
+PROLIA,OSTEOPOROSIS POSTMENOPAUSAL,"['Paraesthesia', 'Hot flush', 'Weight decreased', 'Ageusia']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Blood glucose increased', 'Decreased appetite', 'Abdominal pain upper', 'Paraesthesia', 'Epistaxis', 'Tinnitus', 'Depression', 'Weight decreased', 'Fall', 'Contusion', 'Diabetes mellitus', 'Arthralgia', 'Oropharyngeal pain', 'Nasopharyngitis']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Fatigue', 'Asthenia']"
+TYSABRI,MULTIPLE SCLEROSIS,['Sinusitis']
+TYSABRI,MULTIPLE SCLEROSIS,"['Pain', 'Mobility decreased', 'Memory impairment', 'Pain in extremity', 'Sensory disturbance', 'Fatigue', 'Headache']"
+AVONEX,MULTIPLE SCLEROSIS,"['Multiple sclerosis', 'Central nervous system lesion']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Stress', 'Multiple sclerosis relapse', 'Malaise']"
+TYSABRI,MULTIPLE SCLEROSIS,"['White blood cell count increased', 'Hypoaesthesia', 'Contusion', 'Toe operation', 'Pyrexia']"
+AVONEX,MULTIPLE SCLEROSIS,['Blindness']
+AVONEX,MULTIPLE SCLEROSIS,['Malaise']
+TECFIDERA,MULTIPLE SCLEROSIS,"['Liver disorder', 'Pericarditis', 'Pain', 'Jaundice', 'Multiple sclerosis relapse']"
+AVONEX,MULTIPLE SCLEROSIS,"['Cognitive disorder', 'Anxiety', 'Injection site pain']"
+HERCEPTIN,BREAST CANCER METASTATIC,['Febrile neutropenia']
+BETAFERON,MULTIPLE SCLEROSIS,"['Multiple sclerosis relapse', 'Eyelid ptosis', 'Influenza like illness']"
+ENBREL,RHEUMATOID ARTHRITIS,['Death']
+AVONEX,MULTIPLE SCLEROSIS,"['Stress', 'Emotional disorder', 'Anxiety']"
+AVONEX,MULTIPLE SCLEROSIS,['Drug dose omission']
+AVONEX,MULTIPLE SCLEROSIS,"['Fall', 'Gait disturbance', 'Musculoskeletal pain']"
+NEULASTA,PROPHYLAXIS,['Hospitalisation']
+TYSABRI,CROHN^S DISEASE,['Iris melanoma']
+POMALYST,PLASMA CELL MYELOMA,"['Speech disorder', 'Balance disorder', 'Gait disturbance', 'Confusional state', 'Asthenia', 'Pain']"
+TECFIDERA,RELAPSING-REMITTING MULTIPLE SCLEROSIS,"['Rash pruritic', 'Anaphylactic reaction', 'Drug hypersensitivity', 'Adverse drug reaction', 'Rash', 'Flushing']"
+TECFIDERA,RELAPSING-REMITTING MULTIPLE SCLEROSIS,"['Prescribed underdose', 'Malaise', 'Cerebrovascular accident']"
+TYSABRI,MULTIPLE SCLEROSIS,"['Influenza like illness', 'Back disorder']"
+AVONEX,MULTIPLE SCLEROSIS,['Increased tendency to bruise']
+ENBREL,PSORIATIC ARTHROPATHY,"['Mobility decreased', 'Skin cancer', 'Pain in jaw', 'Bone swelling', 'Ear disorder', 'Tooth disorder', 'Inappropriate schedule of drug administration']"
+TECFIDERA,MULTIPLE SCLEROSIS,['Multiple sclerosis relapse']
+TYSABRI,MULTIPLE SCLEROSIS,"['General symptom', 'Stress']"
+AVONEX,MULTIPLE SCLEROSIS,"['Gait disturbance', 'Fall']"
+AVONEX,MULTIPLE SCLEROSIS,"['Weight increased', 'Pyrexia', 'Multiple sclerosis relapse']"
+AVONEX,MULTIPLE SCLEROSIS,['Nervousness']
+TYSABRI,MULTIPLE SCLEROSIS,"['Fall', 'Foot fracture', 'Headache', 'Fatigue', 'Asthenia']"
+AVONEX,MULTIPLE SCLEROSIS,['Confusional state']
+TYSABRI,MULTIPLE SCLEROSIS,['Multiple sclerosis relapse']
+XARELTO,CEREBROVASCULAR ACCIDENT PROPHYLAXIS,['Thrombocytopenia']
+CETIRIZINE 10 MG,HYPERSENSITIVITY,['Joint swelling']
+PROLIA,OSTEOPOROSIS POSTMENOPAUSAL,"['Hypoglycaemic unconsciousness', 'Fall', 'Lower limb fracture']"
+PROLIA,OSTEOPOROSIS POSTMENOPAUSAL,['Transient ischaemic attack']
+TYSABRI,MULTIPLE SCLEROSIS,['Pain in extremity']
+TYSABRI,MULTIPLE SCLEROSIS,"['Arthralgia', 'Generalised tonic-clonic seizure', 'Convulsion', 'Thermal burn', 'Tongue injury', 'Concussion', 'Anxiety', 'Cartilage injury', 'Intervertebral disc protrusion', 'Back pain', 'Ligament injury']"
+BETAFERON,MULTIPLE SCLEROSIS,"['Multiple sclerosis relapse', 'Drug ineffective']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+HERCEPTIN,BREAST CANCER,['Disease progression']
+CETIRIZINE 10 MG,HYPERSENSITIVITY,"['Drug ineffective', 'Product quality issue']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Myocardial infarction']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+ENBREL,PSORIASIS,"['Face oedema', 'Drug effect incomplete', 'Oedema', 'Skin lesion', 'Drug intolerance', 'Otitis media']"
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+NEULASTA,PROPHYLAXIS,['Investigation']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM (ULTRABAG),PERITONEAL DIALYSIS,['Hypotension']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Malaise']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+STELARA,PSORIASIS,['Conduction disorder']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL PD2,PERITONEAL DIALYSIS,['Myocardial infarction']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Hernia', 'Weight decreased', 'Hypotension']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Head injury', 'Fluid overload']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+OXYCODONE HCL 30MG,PAIN,"['Abdominal discomfort', 'Dizziness', 'Somnolence']"
+REVLIMID,MYELODYSPLASTIC SYNDROME,['Peripheral vascular disorder']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Blood pressure increased', 'Weight increased']"
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+XARELTO,ATRIAL FIBRILLATION,"['Ischaemic stroke', 'Incorrect dose administered']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM (ULTRABAG),PERITONEAL DIALYSIS,['Death']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+ENBREL,PSORIASIS,"['Renal cancer', 'Pneumonia', 'Sinusitis', 'Injury', 'Drug effect incomplete', 'Psoriasis']"
+SUBOXONE,DRUG DEPENDENCE,"['Foetal exposure during pregnancy', 'Drug withdrawal syndrome neonatal']"
+PROLIA,OSTEOPOROSIS POSTMENOPAUSAL,"['Intervertebral disc operation', 'Spinal laminectomy']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+CETIRIZINE 10 MG,HYPERSENSITIVITY,"['Drug ineffective', 'Product quality issue']"
+CETIRIZINE 10 MG,HYPERSENSITIVITY,"['Somnolence', 'Vision blurred']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Scrotal swelling', 'Hernia']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Pneumonia']
+HUMIRA,CROHN^S DISEASE,"['Thyroid neoplasm', 'Goitre']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Abdominal distension']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Atrial fibrillation', 'Blood potassium decreased', 'Dehydration']"
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Peritonitis']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Heart rate irregular', 'Dyspnoea']"
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+REMICADE,RHEUMATOID ARTHRITIS,['Disseminated tuberculosis']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+STELARA,PSORIASIS,"['Multiple sclerosis', 'Psoriasis']"
+OXYCODONE HCL 30MG,PAIN,['Drug ineffective']
+OXYCODONE HCL,PAIN,['Withdrawal syndrome']
+DIANEAL PD2,PERITONEAL DIALYSIS,"['Cardiac arrest', 'Loss of consciousness']"
+REMICADE,RHEUMATOID ARTHRITIS,"['Malaise', 'Cardiac operation']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Incarcerated hernia', 'Peritonitis', 'Catheter site extravasation', 'Post procedural infection']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Hernia']
+REMICADE,PSORIATIC ARTHROPATHY,"['Cardiac disorder', 'Post procedural complication']"
+REVLIMID,PLASMA CELL MYELOMA,"['Intra-abdominal haemorrhage', 'Infection', 'Plasma cell myeloma', 'Full blood count decreased', 'Pneumonia', 'Somnolence', 'Neuropathy peripheral', 'Constipation', 'Malaise']"
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+SUBOXONE,DRUG DEPENDENCE,"['Foetal exposure during pregnancy', 'Drug withdrawal syndrome neonatal']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+CETIRIZINE 10 MG,HYPERSENSITIVITY,"['Constipation', 'Product quality issue']"
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,RENAL FAILURE CHRONIC,"['Anaemia', 'Gastrointestinal haemorrhage']"
+PROLIA,OSTEOPOROSIS POSTMENOPAUSAL,['Death']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Fluid overload']
+DIANEAL LOW CALCIUM,RENAL FAILURE CHRONIC,"['Death', 'Hypoxia', 'Delirium', 'Stress', 'Pancreatic disorder', 'Ultrafiltration failure', 'Dyspnoea']"
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Cardiac disorder']
+REMICADE,CROHN^S DISEASE,['Acute psychosis']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Peripheral artery thrombosis', 'Cerebrovascular accident']"
+DIANEAL PD2,PERITONEAL DIALYSIS,"['Acute myocardial infarction', 'Disease complication', 'Hypertension', 'Pneumonia aspiration', 'Acute respiratory failure', 'Sepsis', 'Fall']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Fall', 'Joint injury']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Renal failure acute']
+XARELTO,CEREBROVASCULAR ACCIDENT PROPHYLAXIS,"['Diverticulitis', 'Gastrointestinal haemorrhage', 'Chest pain', 'Cerebrovascular accident']"
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,"['Cough', 'Product quality issue', 'Product quality issue', 'Product quality issue']"
+CETIRIZINE 10 MG,HYPERSENSITIVITY,"['Fatigue', 'Nightmare']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Swelling face', 'Local swelling']"
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+CETIRIZINE 10 MG,HYPERSENSITIVITY,"['Dizziness', 'Vertigo', 'Blood pressure increased']"
+REMICADE,INFLAMMATORY BOWEL DISEASE,['Gastrointestinal stoma complication']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+OXYCODONE HCL 30MG,PAIN,['Somnolence']
+OXYTROL FOR WOMEN,URINARY INCONTINENCE,"['Application site erythema', 'Wrong technique in drug usage process']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Peritonitis bacterial', 'Peritoneal dialysis complication']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Feeling abnormal']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+REMICADE,RHEUMATOID ARTHRITIS,['Herpes zoster']
+HERCEPTIN,BREAST CANCER METASTATIC,['Febrile neutropenia']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+NEULASTA,PROPHYLAXIS,['Investigation']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+PARAGARD 380A,CONTRACEPTION,['Device expulsion']
+OXYTROL FOR WOMEN,HYPERTONIC BLADDER,['Drug ineffective']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+OXYTROL FOR WOMEN,HYPERTONIC BLADDER,"['Pollakiuria', 'Condition aggravated', 'Insomnia']"
+DIANEAL LOW CALCIUM (ULTRABAG),PERITONEAL DIALYSIS,['Hernia']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Peritoneal dialysis complication', 'Muscle spasms']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Chest pain', 'Anaphylactic reaction']"
+DIANEAL LOW CALCIUM,RENAL FAILURE CHRONIC,['Device related infection']
+DIANEAL LOW CALCIUM (ULTRABAG),PERITONEAL DIALYSIS,['Hypotension']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+PROGRAF,RENAL TRANSPLANT,"['Renal failure', 'Drug intolerance']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+CORICIDIN HBP COLD AND FLU,NASOPHARYNGITIS,['Drug ineffective']
+PLAN B ONE-STEP,POST COITAL CONTRACEPTION,"['Urine abnormality', 'Dizziness', 'Headache', 'Fatigue']"
+PROGRAF,RENAL TRANSPLANT,['Renal transplant']
+GILENYA,RELAPSING-REMITTING MULTIPLE SCLEROSIS,['Syncope']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+PLAN B ONE-STEP,POST COITAL CONTRACEPTION,['Menstruation irregular']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Local swelling']
+NEULASTA,PROPHYLAXIS,['Red man syndrome']
+SOLIRIS,PAROXYSMAL NOCTURNAL HAEMOGLOBINURIA,['Aplastic anaemia']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+PRADAXA,ATRIAL FIBRILLATION,"['Dermatitis exfoliative', 'Photosensitivity reaction']"
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,"['Dizziness', 'Vision blurred', 'Malaise', 'Type 2 diabetes mellitus', 'Palpitations']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+PARAGARD 380A,CONTRACEPTION,"['Feeling hot', 'Cold sweat', 'Nausea', 'Dizziness', 'Back pain', 'Abdominal pain']"
+XARELTO,PULMONARY EMBOLISM,['Tooth abscess']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,"['Type 2 diabetes mellitus', 'Neuropathy peripheral', 'Visual impairment']"
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+SOLIRIS,PAROXYSMAL NOCTURNAL HAEMOGLOBINURIA,"['Cerebrovascular accident', 'Haemoglobin decreased', 'Thrombosis', 'Aplastic anaemia']"
+ACLASTA,OSTEOPOROSIS,"['Device failure', 'Osteonecrosis of jaw', 'Toothache', 'Bone disorder', 'Breath odour', 'Mouth haemorrhage', 'Oral disorder', 'Erythema', 'Swelling', 'Pain', 'Exposed bone in jaw', 'Infection', 'Purulence']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+OXYTROL FOR WOMEN,NOCTURIA,['Drug effect decreased']
+OXYCODONE HCL 30MG,PAIN,['Eyelid oedema']
+SUTENT,RENAL CELL CARCINOMA,['Death']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+CETIRIZINE 10 MG,HYPERSENSITIVITY,['Memory impairment']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,['Incorrect route of drug administration']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+AFINITOR,RENAL CELL CARCINOMA,"['Feeling abnormal', 'Dyspnoea', 'Insomnia']"
+GILENYA,MULTIPLE SCLEROSIS,['Dysarthria']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+REMICADE,CROHN^S DISEASE,"['Abscess', 'Intestinal stenosis', 'Drug specific antibody present', 'Abdominal pain', 'Asthenia']"
+LIPITOR,BLOOD CHOLESTEROL INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+SUTENT,RENAL CELL CARCINOMA,"['Ruptured cerebral aneurysm', 'Hypertension']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+TASIGNA,CHRONIC MYELOID LEUKAEMIA,"['Dyspnoea', 'Asthenia', 'Lung disorder', 'Skin toxicity', 'Cough']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+ENBREL,RHEUMATOID ARTHRITIS,"['Pulmonary mass', 'Cough', 'Sinus disorder', 'Pain', 'Influenza']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+SOLIRIS,PAROXYSMAL NOCTURNAL HAEMOGLOBINURIA,['Transfusion']
+COMBIVENT,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,"['Pneumonia', 'Dyspnoea']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Dermatitis contact', 'Rash pruritic']"
+REMICADE,RHEUMATOID ARTHRITIS,"['Cardiac failure congestive', 'Pericardial effusion', 'Atrial fibrillation']"
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+OXYCODONE HCL 30MG,PAIN,"['Incorrect dose administered', 'Drug ineffective']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+OXYCODONE HCL,PAIN,"['Psychotic disorder', 'Feeling abnormal']"
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+GILENYA,MULTIPLE SCLEROSIS,"['Visual acuity reduced', 'Nasopharyngitis', 'Visual field defect', 'White blood cell count increased', 'Alanine aminotransferase increased', 'Lymphocyte count decreased', 'Cataract']"
+REMICADE,CROHN^S DISEASE,"['Enterocutaneous fistula', 'Renal neoplasm', 'Ileal stenosis', 'Ileal perforation', 'Renal impairment']"
+PARAGARD 380A,CONTRACEPTION,['Device breakage']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+NEXPLANON,CONTRACEPTION,"['Device deployment issue', 'No adverse event']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+AUBAGIO,MULTIPLE SCLEROSIS,"['Pollakiuria', 'Trichorrhexis', 'Paraesthesia', 'Pain', 'Multiple sclerosis relapse', 'Insomnia', 'Pruritus', 'Alopecia', 'Diarrhoea', 'Headache', 'Cystitis', 'Balance disorder', 'Gastrointestinal disorder', 'Pyrexia', 'Cataract', 'Dry skin', 'Feeling of body temperature change', 'Fatigue', 'Burning sensation', 'Nausea', 'Mobility decreased']"
+REVLIMID,PLASMA CELL MYELOMA,['Hernia']
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,['Incorrect route of drug administration']
+LIPITOR,BLOOD CHOLESTEROL INCREASED,['Type 2 diabetes mellitus']
+HUMIRA,CROHN^S DISEASE,"['Skin ulcer', 'Psoriasis', 'Alopecia']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,['Incorrect route of drug administration']
+HUMIRA,CROHN^S DISEASE,"['Nephrotic syndrome', 'Renal failure acute']"
+GLIVEC,CHRONIC MYELOID LEUKAEMIA,['Death']
+GLIVEC,CHRONIC MYELOID LEUKAEMIA,"['Fatigue', 'Cyst', 'Ear pain', 'Pain in extremity', 'Blood bilirubin increased']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,"['Chest pain', 'Type 2 diabetes mellitus', 'Neuropathy peripheral']"
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,"['Renal neoplasm', 'Type 2 diabetes mellitus']"
+ENBREL,RHEUMATOID ARTHRITIS,['Furuncle']
+PARAGARD 380A,CONTRACEPTION,"['Glucose tolerance test abnormal', 'Smear cervix abnormal']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+OXYTROL FOR WOMEN,HYPERTONIC BLADDER,"['Somnolence', 'Drug effect decreased']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+SUBOXONE,DRUG DEPENDENCE,"['Hypersensitivity', 'Dyspnoea', 'Oral disorder', 'Wrong technique in drug usage process', 'Pharyngeal oedema']"
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+REVLIMID,PLASMA CELL MYELOMA,['Spinal disorder']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LYRICA,FIBROMYALGIA,['Drug ineffective']
+REMICADE,CROHN^S DISEASE,"['Crohn^s disease', 'Drug ineffective']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+GLIVEC,CHRONIC MYELOID LEUKAEMIA,['Death']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,['Incorrect route of drug administration']
+PARAGARD 380A,CONTRACEPTION,['Device dislocation']
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,['Incorrect route of drug administration']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+REVLIMID,PLASMA CELL MYELOMA,"['Yellow skin', 'Decreased appetite']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+AUBAGIO,MULTIPLE SCLEROSIS,"['Memory impairment', 'Seizure', 'Off label use', 'Road traffic accident', 'Cerebrovascular accident', 'Sneezing', 'Transient ischaemic attack', 'Fatigue', 'Speech disorder', 'Confusional state', 'Bacterial infection', 'Rhinorrhoea', 'Feeling hot', 'Alopecia', 'Disturbance in attention', 'Migraine', 'Osteoporosis', 'Paraesthesia', 'Nausea', 'Headache']"
+PLAN B ONE-STEP,POST COITAL CONTRACEPTION,['Menstruation irregular']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+REVLIMID,MYELODYSPLASTIC SYNDROME,['Gait disturbance']
+AFINITOR,BREAST CANCER,['Death']
+REVLIMID,PLASMA CELL MYELOMA,"['Musculoskeletal disorder', 'Plasma cell myeloma']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+SOLIRIS,PAROXYSMAL NOCTURNAL HAEMOGLOBINURIA,"['Haemoglobin decreased', 'Asthenia']"
+PARAGARD 380A,CONTRACEPTION,['Device expulsion']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+HUMIRA,CROHN^S DISEASE,"['Intestinal stenosis', 'Diarrhoea', 'Abdominal pain']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+HUMIRA,CROHN^S DISEASE,"['Ligament sprain', 'Ligament rupture', 'Road traffic accident', 'Tonsillitis', 'Upper respiratory tract infection', 'Asthenia', 'Pain in extremity', 'Swelling face']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+CLOZARIL,SCHIZOPHRENIA,"['Pleural effusion', 'Pneumonia', 'Lower respiratory tract infection']"
+REMICADE,CROHN^S DISEASE,"['Loss of consciousness', 'Anxiety']"
+HUMIRA,CROHN^S DISEASE,"['Intestinal obstruction', 'Haematuria', 'Urinary tract infection', 'Crohn^s disease']"
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,['Dizziness']
+OXYTROL FOR WOMEN,URINARY INCONTINENCE,"['Application site burn', 'Application site erythema', 'Wrong technique in drug usage process']"
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+PRADAXA,ATRIAL FIBRILLATION,['Cerebral haemorrhage']
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+SUBOXONE,DRUG DEPENDENCE,"['Hypersensitivity', 'Urticaria', 'Vomiting', 'Migraine', 'Pharyngeal oedema']"
+SOLIRIS,PAROXYSMAL NOCTURNAL HAEMOGLOBINURIA,"['Transfusion', 'Pancytopenia']"
+PARAGARD 380A,CONTRACEPTION,"['Device dislocation', 'Dysmenorrhoea', 'Vaginal haemorrhage', 'Device expulsion']"
+ACLASTA,OSTEOPOROSIS,"['Death', 'Fatigue']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+OXYTROL FOR WOMEN,POLLAKIURIA,"['Application site pain', 'Application site irritation', 'Application site erythema', 'Application site pruritus']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+PARAGARD 380A,CONTRACEPTION,['Device dislocation']
+PLAN B ONE-STEP,POST COITAL CONTRACEPTION,['Menstruation irregular']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,"['Neuropathy peripheral', 'Femur fracture', 'Type 2 diabetes mellitus']"
+SOLIRIS,PAROXYSMAL NOCTURNAL HAEMOGLOBINURIA,['Bone marrow disorder']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LYRICA,NEURALGIA,"['Drug ineffective', 'Somnolence', 'Dizziness']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+PARAGARD 380A,CONTRACEPTION,"['Vaginal haemorrhage', 'Muscle spasms']"
+XARELTO,CEREBROVASCULAR ACCIDENT PROPHYLAXIS,['Interstitial lung disease']
+ENBREL,PSORIASIS,"['Liver injury', 'Aspartate aminotransferase increased', 'Alanine aminotransferase increased']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,"['Type 2 diabetes mellitus', 'Diabetic nephropathy']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,"['Type 2 diabetes mellitus', 'Coronary artery disease']"
+PARAGARD 380A,CONTRACEPTION,"['Device breakage', 'Embedded device', 'Muscle spasms', 'Metrorrhagia', 'Metrorrhagia']"
+GILENYA,MULTIPLE SCLEROSIS,"['Gastric haemorrhage', 'Muscle spasms', 'Fall', 'Gait disturbance']"
+HUMIRA,CROHN^S DISEASE,"['Cough', 'Clostridium difficile colitis', 'Diarrhoea', 'Pyrexia', 'Malaise', 'Drug ineffective', 'Inappropriate schedule of drug administration']"
+XARELTO,CEREBROVASCULAR ACCIDENT PROPHYLAXIS,"['Retroperitoneal haemorrhage', 'Fall']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+PARAGARD 380A,CONTRACEPTION,"['Pregnancy with contraceptive device', 'Drug ineffective', 'Ectopic pregnancy with contraceptive device', 'Abortion spontaneous', 'Hormone level abnormal']"
+OXYTROL FOR WOMEN,HYPERTONIC BLADDER,"['Incorrect drug administration duration', 'Drug effect decreased']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+STELARA,PSORIASIS,['Latent tuberculosis']
+CORICIDIN HBP COLD AND FLU,NASOPHARYNGITIS,['Therapeutic response decreased']
+PARAGARD 380A,CONTRACEPTION,"['Vulvovaginal pain', 'Device expulsion', 'Dyspareunia']"
+HUMIRA,PSORIASIS,"['Myocardial infarction', 'General physical health deterioration']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+SOLIRIS,PAROXYSMAL NOCTURNAL HAEMOGLOBINURIA,['Bone marrow transplant']
+CORICIDIN HBP COLD AND FLU,NASOPHARYNGITIS,['Drug effect decreased']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+TRACLEER,PULMONARY ARTERIAL HYPERTENSION,['Clostridium difficile infection']
+HUMIRA,PSORIASIS,"['Hepatic lesion', 'Hepatotoxicity', 'Generalised erythema', 'Dermatitis exfoliative', 'Drug ineffective']"
+TYSABRI,RELAPSING-REMITTING MULTIPLE SCLEROSIS,['Ileus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,"['Neuropathy peripheral', 'Type 2 diabetes mellitus']"
+TRACLEER,PULMONARY ARTERIAL HYPERTENSION,"['Gastroenteritis viral', 'Diarrhoea']"
+PLAN B ONE-STEP,POST COITAL CONTRACEPTION,"['Nausea', 'Dizziness']"
+LIPITOR,CARDIOVASCULAR EVENT PROPHYLAXIS,['Type 2 diabetes mellitus']
+HUMIRA,RHEUMATOID ARTHRITIS,"['Back pain', 'Subcutaneous abscess', 'Abdominal pain', 'Pyrexia', 'Calculus urinary']"
+AFINITOR,BREAST CANCER METASTATIC,"['Death', 'Asthenia', 'Malignant neoplasm progression', 'Drug ineffective']"
+SOLIRIS,PAROXYSMAL NOCTURNAL HAEMOGLOBINURIA,['Transfusion']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,"['Type 2 diabetes mellitus', 'Nerve injury', 'Asthenia', 'Fatigue', 'Weight decreased']"
+PARAGARD 380A,CONTRACEPTION,['Device expulsion']
+CORICIDIN HBP COLD AND FLU,NASOPHARYNGITIS,['Drug ineffective']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+HUMIRA,PSORIASIS,['Lower extremity mass']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,"['Arteriosclerosis', 'Type 2 diabetes mellitus']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+SUTENT,RENAL CELL CARCINOMA,"['Platelet count decreased', 'White blood cell count decreased']"
+HUMIRA,PSORIASIS,"['Malaise', 'Transient ischaemic attack', 'Psoriasis', 'Loss of consciousness', 'Dehydration', 'Ear infection', 'Psoriasis', 'Bradyphrenia']"
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+SOLIRIS,PAROXYSMAL NOCTURNAL HAEMOGLOBINURIA,['Renal failure chronic']
+GILENYA,MULTIPLE SCLEROSIS,"['Seizure', 'CSF protein abnormal', 'Aphasia', 'Hemianopia homonymous', 'Speech disorder', 'Pleocytosis', 'Central nervous system lesion', 'Cerebellar syndrome', 'Stupor', 'Altered state of consciousness', 'Diarrhoea', 'Acute disseminated encephalomyelitis', 'Encephalopathy', 'Bladder dysfunction', 'Pyrexia', 'Paresis']"
+OXYTROL FOR WOMEN,URINARY INCONTINENCE,['Drug ineffective']
+PARAGARD 380A,CONTRACEPTION,['Device expulsion']
+PRADAXA,CEREBROVASCULAR ACCIDENT PROPHYLAXIS,['Pulmonary embolism']
+OXYTROL FOR WOMEN,POLLAKIURIA,"['Rash', 'Vulvovaginal burning sensation', 'Vulvovaginal discomfort', 'Product adhesion issue', 'Pelvic haemorrhage']"
+PROLIA,OSTEOPOROSIS POSTMENOPAUSAL,"['Blood pressure abnormal', 'Urinary tract infection', 'Malaise', 'Diarrhoea', 'Spinal pain', 'Dizziness', 'Tremor', 'Cold sweat', 'Presyncope', 'Feeling abnormal', 'Hypoaesthesia', 'Dyspnoea', 'Pollakiuria', 'Urinary incontinence', 'Insomnia', 'Abdominal pain upper', 'Asthenia', 'Back pain', 'Pain in extremity']"
+HUMIRA,CROHN^S DISEASE,"['Anal stenosis', 'Hypoaesthesia oral', 'Paraesthesia oral', 'Lip swelling']"
+TRACLEER,PULMONARY HYPERTENSION,"['Depressed level of consciousness', 'Haematoma', 'Subdural haemorrhage', 'Craniotomy', 'Left ventricular failure', 'Speech disorder']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Unevaluable event', 'Procedural pain']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Cellulitis']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+HUMIRA,RHEUMATOID ARTHRITIS,"['Inguinal hernia', 'Post procedural complication', 'Haematoma', 'Testicular mass', 'Lymphadenopathy', 'Testicular pain', 'Groin pain', 'Drug dose omission']"
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+HUMIRA,PSORIASIS,"['Oropharyngeal pain', 'Staphylococcal sepsis', 'Upper respiratory tract infection', 'Pharyngitis', 'Erythrodermic psoriasis', 'Pneumonia influenzal']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+SPIRIVA,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,['Incorrect route of drug administration']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Fluid overload']
+REVLIMID,PLASMA CELL MYELOMA,"['Adverse drug reaction', 'No therapeutic response']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Local swelling', 'Ultrafiltration failure']"
+DIANEAL PD2,PERITONEAL DIALYSIS,"['Influenza', 'Pneumonia']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Incisional hernia']
+LYRICA,NEURALGIA,['Drug ineffective']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Hip fracture', 'Peritonitis', 'Peritoneal dialysis complication', 'Catheter site scab']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+HUMIRA,CROHN^S DISEASE,"['Loss of consciousness', 'Feeling hot', 'Hyperhidrosis', 'Fall']"
+OXYTROL FOR WOMEN,POLLAKIURIA,"['Pollakiuria', 'Condition aggravated', 'Incorrect drug administration duration', 'Off label use', 'Drug ineffective']"
+OXYTROL FOR WOMEN,HYPERTONIC BLADDER,"['Hiccups', 'Application site pruritus', 'Application site erythema']"
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Gastric infection']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL PD2,PERITONEAL DIALYSIS,"['Acidosis', 'Dyspnoea']"
+HUMIRA,PSORIASIS,"['Lipase increased', 'Hypophagia', 'Pancreatitis', 'Abdominal pain upper', 'Vomiting']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Cardiac failure', 'Cerebrovascular accident', 'Thrombosis', 'Unevaluable event', 'Blood glucose abnormal', 'Coronary artery occlusion', 'Obstruction', 'Eye injury', 'Concussion', 'Device dislocation', 'Head injury', 'Decreased appetite']"
+DIANEAL LOW CALCIUM,RENAL FAILURE CHRONIC,"['Leukaemia', 'Functional gastrointestinal disorder', 'Hyperkalaemia', 'Vomiting', 'Dehydration', 'Nausea']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+LIPITOR,LOW DENSITY LIPOPROTEIN INCREASED,['Type 2 diabetes mellitus']
+LYRICA,FIBROMYALGIA,['Anxiety']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Procedural pain']
+GABAPENTIN,PAIN,['Hypertension']
+OXYTROL FOR WOMEN,POLLAKIURIA,['Dysuria']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Respiratory arrest']
+LYRICA,FIBROMYALGIA,['Lung neoplasm malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Hyperparathyroidism']
+COMBIVENT,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,"['Anxiety', 'Dyspnoea', 'Product quality issue']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Fluid overload']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+LIPITOR,BLOOD CHOLESTEROL INCREASED,['Drug hypersensitivity']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Blood pressure fluctuation', 'Muscle spasms']"
+ADVIL,PAIN,"['Drug effect delayed', 'Drug effect decreased']"
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+HUMIRA,PSORIASIS,"['Generalised tonic-clonic seizure', 'Postictal state', 'Upper respiratory tract infection', 'Vision blurred', 'Postictal state', 'Fatigue']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+GABAPENTIN,PAIN,['Drug ineffective']
+PRADAXA,ATRIAL FIBRILLATION,['Breast cancer']
+PRADAXA,ATRIAL FIBRILLATION,['Cerebrovascular accident']
+REVLIMID,PLASMA CELL MYELOMA,['Death']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+LETAIRIS,PULMONARY ARTERIAL HYPERTENSION,['Right ventricular failure']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+PARAGARD 380A,CONTRACEPTION,"['Device expulsion', 'Metrorrhagia']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Ultrafiltration failure', 'Blood pressure increased']"
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Impaired gastric emptying']
+CHANTIX,SMOKING CESSATION THERAPY,['Weight increased']
+DIANEAL PD2,PERITONEAL DIALYSIS,"['Sepsis', 'Diabetic gangrene']"
+PLAN B ONE-STEP,POST COITAL CONTRACEPTION,"['Menstruation irregular', 'Menstruation delayed']"
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+NEXPLANON,CONTRACEPTION,['Medical device complication']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+CHANTIX,SMOKING CESSATION THERAPY,"['Irritability', 'Anger', 'Nausea']"
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+CHANTIX,SMOKING CESSATION THERAPY,['Aggression']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+"SEVOFLURANE, USP",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,"['Catheter site extravasation', 'Catheter site pain', 'Discomfort', 'Procedural pain']"
+DIANEAL LOW CALCIUM,PERITONEAL DIALYSIS,['Fluid overload']
+DIANEAL PD2,PERITONEAL DIALYSIS,['Fatigue']
+"FORANE (ISOFLURANE, USP)",ANAESTHESIA,['Hyperthermia malignant']
+DIANEAL LOW CALCIUM,RENAL FAILURE CHRONIC,['Peritoneal effluent abnormal']
