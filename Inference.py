@@ -77,23 +77,23 @@ model.eval()
 with torch.no_grad():
     predictions  = model(batch_X)
     probs = torch.sigmoid(predictions)      
-    top3_probs, top3_idx = torch.topk(probs, k=2, dim=1)
-    keep = top3_probs > CONFIDENCE_THRESHOLD
+    top2_probs, top2_idx = torch.topk(probs, k=2, dim=1)
+    keep = top2_probs > CONFIDENCE_THRESHOLD
     keep[:, 0] = True
     pred_labels  = torch.zeros_like(probs)
-    for j in range(3):
+    for j in range(2):
         rows = keep[:, j].nonzero(as_tuple=True)[0]
-        pred_labels[rows, top3_idx[rows, j]] = 1.0    
+        pred_labels[rows, top2_idx[rows, j]] = 1.0    
 
 # Now print the reactions the network guesses as well as the accuracy it's guessing with 
 indices = pred_labels[0].nonzero(as_tuple=True)[0]
-reactions = [mlb.classes_[i] for i in indices]
 
 for j in range(2):
     if keep[0, j]:
-        reaction_name = mlb.classes_[top3_idx[0, j]]
-        probability = top3_probs[0, j].item()
+        reaction_name = mlb.classes_[top2_idx[0, j]]
+        probability = top2_probs[0, j].item()
         print(f"{reaction_name}: {probability:.1%}")
         
+
 
     

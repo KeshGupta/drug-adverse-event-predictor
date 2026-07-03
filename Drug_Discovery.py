@@ -35,7 +35,7 @@ def main():
         if "results" not in data:
             print(f"API error at skip={i*500}:", data.get("error", "unknown error"))
             break
-        results += random.sample(data["results"], k=250)
+        results += random.sample(data["results"], k=min(250, len(data["results"])))
 
         i += 1
 
